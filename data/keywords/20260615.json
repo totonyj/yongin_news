@@ -2,87 +2,87 @@
   "date": "2026-06-15",
   "keywords": [
     {
-      "keyword": "중상",
-      "count": 17
-    },
-    {
       "keyword": "입건",
-      "count": 16
-    },
-    {
-      "keyword": "거래",
-      "count": 14
-    },
-    {
-      "keyword": "아파트",
-      "count": 14
-    },
-    {
-      "keyword": "차량",
-      "count": 12
+      "count": 20
     },
     {
       "keyword": "아워홈",
-      "count": 12
+      "count": 16
     },
     {
       "keyword": "사고",
-      "count": 12
-    },
-    {
-      "keyword": "빌라",
-      "count": 12
-    },
-    {
-      "keyword": "남아",
-      "count": 10
+      "count": 15
     },
     {
       "keyword": "안전",
-      "count": 10
-    },
-    {
-      "keyword": "서울",
-      "count": 10
+      "count": 15
     },
     {
       "keyword": "민선",
-      "count": 9
+      "count": 13
     },
     {
-      "keyword": "경찰",
-      "count": 9
+      "keyword": "거래",
+      "count": 13
     },
     {
       "keyword": "공장",
+      "count": 13
+    },
+    {
+      "keyword": "경찰",
+      "count": 12
+    },
+    {
+      "keyword": "이상일",
+      "count": 11
+    },
+    {
+      "keyword": "아파트",
+      "count": 10
+    },
+    {
+      "keyword": "기획단",
+      "count": 10
+    },
+    {
+      "keyword": "중상",
+      "count": 10
+    },
+    {
+      "keyword": "로드맵",
+      "count": 9
+    },
+    {
+      "keyword": "출범",
+      "count": 9
+    },
+    {
+      "keyword": "르네상스",
       "count": 9
     },
     {
       "keyword": "카카오",
-      "count": 9
-    },
-    {
-      "keyword": "이상",
       "count": 8
     },
     {
-      "keyword": "이상일",
+      "keyword": "책임자",
       "count": 8
     },
     {
-      "keyword": "르네상스",
+      "keyword": "서울",
+      "count": 8
+    },
+    {
+      "keyword": "광주",
       "count": 7
     },
     {
-      "keyword": "기획단",
+      "keyword": "임대",
       "count": 7
     },
     {
-      "keyword": "로드맵",
-      "count": 7
-    },
-    {
-      "keyword": "출범",
+      "keyword": "영입",
       "count": 7
     },
     {
@@ -90,35 +90,55 @@
       "count": 7
     },
     {
-      "keyword": "운전자",
+      "keyword": "반다비",
       "count": 6
     },
     {
-      "keyword": "반도체",
-      "count": 6
-    },
-    {
-      "keyword": "경기도",
-      "count": 6
-    },
-    {
-      "keyword": "공동",
-      "count": 6
-    },
-    {
-      "keyword": "단지",
+      "keyword": "센터",
       "count": 6
     },
     {
       "keyword": "수립",
-      "count": 5
+      "count": 6
+    },
+    {
+      "keyword": "시장",
+      "count": 6
     },
     {
       "keyword": "근로자",
+      "count": 6
+    },
+    {
+      "keyword": "장석화",
+      "count": 6
+    },
+    {
+      "keyword": "차량",
+      "count": 6
+    },
+    {
+      "keyword": "이상",
+      "count": 6
+    },
+    {
+      "keyword": "빌라",
+      "count": 6
+    },
+    {
+      "keyword": "체육",
       "count": 5
     },
     {
-      "keyword": "책임자",
+      "keyword": "건립",
+      "count": 5
+    },
+    {
+      "keyword": "반도체",
+      "count": 5
+    },
+    {
+      "keyword": "인재",
       "count": 5
     },
     {
@@ -126,51 +146,35 @@
       "count": 5
     },
     {
-      "keyword": "하천",
+      "keyword": "수비수",
       "count": 5
-    },
-    {
-      "keyword": "산책로",
-      "count": 5
-    },
-    {
-      "keyword": "시장",
-      "count": 4
-    },
-    {
-      "keyword": "양극",
-      "count": 4
-    },
-    {
-      "keyword": "해커톤",
-      "count": 4
-    },
-    {
-      "keyword": "임대",
-      "count": 4
-    },
-    {
-      "keyword": "영입",
-      "count": 4
-    },
-    {
-      "keyword": "체납",
-      "count": 4
-    },
-    {
-      "keyword": "관리",
-      "count": 4
     },
     {
       "keyword": "관리자",
+      "count": 5
+    },
+    {
+      "keyword": "남아",
+      "count": 5
+    },
+    {
+      "keyword": "운전자",
+      "count": 5
+    },
+    {
+      "keyword": "경기도",
+      "count": 5
+    },
+    {
+      "keyword": "장석환",
       "count": 4
     },
     {
-      "keyword": "강남",
+      "keyword": "광주FC",
       "count": 4
     },
     {
-      "keyword": "인재",
+      "keyword": "수비",
       "count": 4
     },
     {
@@ -178,28 +182,24 @@
       "count": 4
     },
     {
-      "keyword": "장석화",
+      "keyword": "의회",
       "count": 4
     },
     {
-      "keyword": "비중",
+      "keyword": "대표",
       "count": 4
     },
     {
-      "keyword": "용인시장",
-      "count": 3
+      "keyword": "관리",
+      "count": 4
     },
     {
-      "keyword": "반다비",
-      "count": 3
+      "keyword": "공동",
+      "count": 4
     },
     {
-      "keyword": "체육",
-      "count": 3
-    },
-    {
-      "keyword": "센터",
-      "count": 3
+      "keyword": "강남",
+      "count": 4
     }
   ]
 }
