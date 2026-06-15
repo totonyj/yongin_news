@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>용인시 뉴스 모니터</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap');
+
+  :root {
+    --bg:       #F7F8FA;
+    --surface:  #FFFFFF;
+    --border:   #E4E7EE;
+    --primary:  #1A4FBF;
+    --accent:   #E8322A;
+    --text:     #1A1D23;
+    --muted:    #7A8299;
+    --tag-bg:   #EEF2FB;
+    --tag-text: #1A4FBF;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Noto Sans KR', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  /* ── 헤더 ── */
+  header {
+    background: var(--primary);
+    color: #fff;
+    padding: 0 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 56px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 8px rgba(26,79,191,.25);
+  }
+  header h1 {
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: -.3px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  header h1 span.dot {
+    width: 8px; height: 8px;
+    background: var(--accent);
+    border-radius: 50%;
+    display: inline-block;
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse {
+    0%,100%{ opacity:1; transform:scale(1); }
+    50%{ opacity:.5; transform:scale(1.4); }
+  }
+  #last-updated {
+    font-size: 12px;
+    opacity: .7;
+  }
+
+  /* ── 레이아웃 ── */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 16px;
+  }
+
+  /* ── 필터 바 ── */
+  .filter-bar {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 18px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+  .filter-bar label {
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+  .filter-bar input[type="date"] {
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 6px 10px;
+    font-family: inherit;
+    font-size: 13px;
+    color: var(--text);
+    outline: none;
+    background: var(--bg);
+  }
+  .filter-bar input[type="date"]:focus {
+    border-color: var(--primary);
+  }
+  .filter-bar .sep { color: var(--muted); }
+  .btn {
+    padding: 7px 18px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: 500;
+    transition: .15s;
+  }
+  .btn-primary {
+    background: var(--primary);
+    color: #fff;
+  }
+  .btn-primary:hover { background: #163fa0; }
+  .btn-ghost {
+    background: var(--tag-bg);
+    color: var(--tag-text);
+  }
+  .btn-ghost:hover { background: #dce5f8; }
+
+  /* ── 요약 카드 ── */
+  .summary-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+  .summary-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px 20px;
+  }
+  .summary-card .label {
+    font-size: 11px;
+    font-weight: 500;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    margin-bottom: 6px;
+  }
+  .summary-card .value {
+    font-size: 26px;
+    font-weight: 700;
+    color: var(--primary);
+    line-height: 1;
+  }
+  .summary-card .sub {
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 4px;
+  }
+
+  /* ── 2컬럼 그리드 ── */
+  .grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 340px;
+    gap: 16px;
+    align-items: start;
+  }
+
+  /* ── 패널 공통 ── */
+  .panel {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .panel-head {
+    padding: 14px 18px 12px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .panel-head h2 {
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--text);
+  }
+  .panel-head .count-badge {
+    background: var(--tag-bg);
+    color: var(--tag-text);
+    font-size: 11px;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 20px;
+  }
+
+  /* ── 기사 목록 ── */
+  #article-list { max-height: 680px; overflow-y: auto; }
+  .article-item {
+    padding: 12px 18px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    transition: background .1s;
+  }
+  .article-item:last-child { border-bottom: none; }
+  .article-item:hover { background: #F0F4FD; }
+  .article-num {
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--muted);
+    min-width: 24px;
+    padding-top: 2px;
+  }
+  .article-body { flex: 1; min-width: 0; }
+  .article-title {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--text);
+    line-height: 1.45;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 4px;
+  }
+  .article-title:hover { color: var(--primary); }
+  .article-meta {
+    font-size: 11px;
+    color: var(--muted);
+    display: flex;
+    gap: 8px;
+  }
+  .article-meta .publisher {
+    color: var(--primary);
+    font-weight: 500;
+  }
+
+  /* 스크롤바 */
+  #article-list::-webkit-scrollbar { width: 4px; }
+  #article-list::-webkit-scrollbar-track { background: transparent; }
+  #article-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+
+  /* ── 키워드 사이드바 ── */
+  .keyword-list { padding: 12px 18px; }
+  .keyword-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 7px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .keyword-item:last-child { border-bottom: none; }
+  .kw-rank {
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--muted);
+    min-width: 20px;
+    text-align: right;
+  }
+  .kw-rank.top { color: var(--accent); }
+  .kw-bar-wrap { flex: 1; }
+  .kw-word {
+    font-size: 13px;
+    font-weight: 500;
+    margin-bottom: 3px;
+  }
+  .kw-bar-track {
+    height: 4px;
+    background: var(--border);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+  .kw-bar-fill {
+    height: 100%;
+    background: var(--primary);
+    border-radius: 2px;
+    transition: width .5s ease;
+  }
+  .kw-count {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--text);
+    min-width: 28px;
+    text-align: right;
+  }
+
+  /* ── 빈 상태 / 로딩 ── */
+  .empty-state {
+    padding: 48px 24px;
+    text-align: center;
+    color: var(--muted);
+  }
+  .empty-state .icon { font-size: 32px; margin-bottom: 8px; }
+  .empty-state p { font-size: 13px; }
+
+  .spinner {
+    width: 28px; height: 28px;
+    border: 3px solid var(--border);
+    border-top-color: var(--primary);
+    border-radius: 50%;
+    animation: spin .7s linear infinite;
+    margin: 40px auto;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ── 페이지네이션 ── */
+  .pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 12px;
+    border-top: 1px solid var(--border);
+  }
+  .page-btn {
+    padding: 5px 12px;
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    background: var(--surface);
+    cursor: pointer;
+    font-size: 12px;
+    font-family: inherit;
+    transition: .1s;
+  }
+  .page-btn:hover { border-color: var(--primary); color: var(--primary); }
+  .page-btn.active { background: var(--primary); color: #fff; border-color: var(--primary); }
+  .page-btn:disabled { opacity: .4; cursor: default; }
+
+  /* ── 반응형 ── */
+  @media (max-width: 768px) {
+    .grid-2 { grid-template-columns: 1fr; }
+    .summary-row { grid-template-columns: repeat(3, 1fr); }
+    #article-list { max-height: none; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1><span class="dot"></span> 용인시 뉴스 모니터</h1>
+  <span id="last-updated">로딩 중...</span>
+</header>
+
+<div class="container">
+
+  <!-- 필터 바 -->
+  <div class="filter-bar">
+    <label>기간</label>
+    <input type="date" id="date-from">
+    <span class="sep">~</span>
+    <input type="date" id="date-to">
+    <button class="btn btn-primary" onclick="applyFilter()">조회</button>
+    <button class="btn btn-ghost" onclick="setToday()">오늘</button>
+    <button class="btn btn-ghost" onclick="setWeek()">최근 7일</button>
+    <button class="btn btn-ghost" onclick="setMonth()">이번 달</button>
+  </div>
+
+  <!-- 요약 카드 -->
+  <div class="summary-row">
+    <div class="summary-card">
+      <div class="label">총 기사 수</div>
+      <div class="value" id="stat-total">—</div>
+      <div class="sub" id="stat-period">기간을 선택하세요</div>
+    </div>
+    <div class="summary-card">
+      <div class="label">언론사 수</div>
+      <div class="value" id="stat-publishers">—</div>
+      <div class="sub">개 언론사</div>
+    </div>
+    <div class="summary-card">
+      <div class="label">TOP 키워드</div>
+      <div class="value" id="stat-top-kw" style="font-size:18px">—</div>
+      <div class="sub" id="stat-top-kw-count"></div>
+    </div>
+  </div>
+
+  <!-- 메인 그리드 -->
+  <div class="grid-2">
+
+    <!-- 기사 목록 패널 -->
+    <div class="panel">
+      <div class="panel-head">
+        <h2>📰 기사 목록</h2>
+        <span class="count-badge" id="article-count-badge">0건</span>
+      </div>
+      <div id="article-list">
+        <div class="empty-state">
+          <div class="icon">📅</div>
+          <p>기간을 선택하고 조회하세요</p>
+        </div>
+      </div>
+      <div class="pagination" id="pagination" style="display:none"></div>
+    </div>
+
+    <!-- 키워드 사이드바 -->
+    <div class="panel">
+      <div class="panel-head">
+        <h2>🔑 키워드 Top 20</h2>
+      </div>
+      <div class="keyword-list" id="keyword-list">
+        <div class="empty-state">
+          <div class="icon">🔍</div>
+          <p>기간 조회 후 표시됩니다</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+const SUPABASE_URL = "https://zuxhcavpwndqwmcjnarx.supabase.co";
+const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inp1eGhjYXZwd25kcXdtY2puYXJ4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODA4NTEwMDUsImV4cCI6MjA5NjQyNzAwNX0.Nfb4j_xMYHM-GaVGOjvOazuHOhIA-rqEZZj20q9nb3s";
+
+const PAGE_SIZE = 30;
+let currentPage = 1;
+let allArticles = [];
+
+function sbHeaders() {
+  return {
+    "apikey": SUPABASE_KEY,
+    "Authorization": `Bearer ${SUPABASE_KEY}`
+  };
+}
+
+// ── 날짜 헬퍼 ────────────────────────────────────────────────
+function toDateStr(d) {
+  return d.toISOString().split("T")[0];
+}
+function setToday() {
+  const t = toDateStr(new Date());
+  document.getElementById("date-from").value = t;
+  document.getElementById("date-to").value = t;
+  applyFilter();
+}
+function setWeek() {
+  const to = new Date();
+  const from = new Date(); from.setDate(from.getDate() - 6);
+  document.getElementById("date-from").value = toDateStr(from);
+  document.getElementById("date-to").value = toDateStr(to);
+  applyFilter();
+}
+function setMonth() {
+  const now = new Date();
+  const from = new Date(now.getFullYear(), now.getMonth(), 1);
+  document.getElementById("date-from").value = toDateStr(from);
+  document.getElementById("date-to").value = toDateStr(now);
+  applyFilter();
+}
+
+// ── 조회 ─────────────────────────────────────────────────────
+async function applyFilter() {
+  const from = document.getElementById("date-from").value;
+  const to   = document.getElementById("date-to").value;
+  if (!from || !to) { alert("날짜를 선택해주세요"); return; }
+
+  showLoading();
+  currentPage = 1;
+
+  await Promise.all([
+    fetchArticles(from, to),
+    fetchKeywords(from, to)
+  ]);
+}
+
+async function fetchArticles(from, to) {
+  const fromISO = from + "T00:00:00+09:00";
+  const toISO   = to   + "T23:59:59+09:00";
+
+  const url = `${SUPABASE_URL}/rest/v1/news_articles`
+    + `?date=gte.${encodeURIComponent(fromISO)}`
+    + `&date=lte.${encodeURIComponent(toISO)}`
+    + `&order=date.desc`
+    + `&select=title,publisher,date,link`
+    + `&limit=1000`;
+
+  const res = await fetch(url, { headers: sbHeaders() });
+  allArticles = await res.json();
+
+  if (!Array.isArray(allArticles)) {
+    console.error("기사 조회 오류:", allArticles);
+    allArticles = [];
+  }
+
+  // 요약 갱신
+  const publishers = new Set(allArticles.map(a => a.publisher).filter(Boolean));
+  document.getElementById("stat-total").textContent = allArticles.length.toLocaleString();
+  document.getElementById("stat-publishers").textContent = publishers.size;
+  document.getElementById("stat-period").textContent = `${from} ~ ${to}`;
+
+  renderArticles();
+}
+
+async function fetchKeywords(from, to) {
+  const url = `${SUPABASE_URL}/rest/v1/daily_keywords`
+    + `?date=gte.${from}`
+    + `&date=lte.${to}`
+    + `&select=keyword,count`;
+
+  const res = await fetch(url, { headers: sbHeaders() });
+  const rows = await res.json();
+
+  if (!Array.isArray(rows)) {
+    renderKeywords([]);
+    return;
+  }
+
+  // 기간 합산
+  const merged = {};
+  rows.forEach(r => {
+    merged[r.keyword] = (merged[r.keyword] || 0) + r.count;
+  });
+  const sorted = Object.entries(merged)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 20);
+
+  // TOP 키워드 카드
+  if (sorted.length > 0) {
+    document.getElementById("stat-top-kw").textContent = sorted[0][0];
+    document.getElementById("stat-top-kw-count").textContent = `${sorted[0][1]}회 언급`;
+  }
+
+  renderKeywords(sorted);
+  document.getElementById("last-updated").textContent =
+    `마지막 조회: ${new Date().toLocaleTimeString("ko-KR")}`;
+}
+
+// ── 렌더링 ────────────────────────────────────────────────────
+function renderArticles() {
+  const list = document.getElementById("article-list");
+  const badge = document.getElementById("article-count-badge");
+  badge.textContent = `${allArticles.length}건`;
+
+  if (allArticles.length === 0) {
+    list.innerHTML = `<div class="empty-state"><div class="icon">😶</div><p>해당 기간 기사가 없습니다</p></div>`;
+    document.getElementById("pagination").style.display = "none";
+    return;
+  }
+
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const page  = allArticles.slice(start, start + PAGE_SIZE);
+
+  list.innerHTML = page.map((a, i) => {
+    const num  = start + i + 1;
+    const date = a.date ? new Date(a.date).toLocaleDateString("ko-KR", {
+      month:"2-digit", day:"2-digit", hour:"2-digit", minute:"2-digit"
+    }) : "";
+    return `
+      <div class="article-item">
+        <span class="article-num">${num}</span>
+        <div class="article-body">
+          <a class="article-title" href="${a.link}" target="_blank" rel="noopener">${a.title}</a>
+          <div class="article-meta">
+            <span class="publisher">${a.publisher || "알 수 없음"}</span>
+            <span>${date}</span>
+          </div>
+        </div>
+      </div>`;
+  }).join("");
+
+  renderPagination();
+}
+
+function renderPagination() {
+  const pg = document.getElementById("pagination");
+  const total = Math.ceil(allArticles.length / PAGE_SIZE);
+  if (total <= 1) { pg.style.display = "none"; return; }
+
+  pg.style.display = "flex";
+  let html = `<button class="page-btn" onclick="goPage(${currentPage-1})" ${currentPage===1?"disabled":""}>◀</button>`;
+
+  const range = 5;
+  let s = Math.max(1, currentPage - Math.floor(range/2));
+  let e = Math.min(total, s + range - 1);
+  if (e - s < range - 1) s = Math.max(1, e - range + 1);
+
+  if (s > 1) html += `<button class="page-btn" onclick="goPage(1)">1</button><span style="color:var(--muted)">…</span>`;
+  for (let p = s; p <= e; p++) {
+    html += `<button class="page-btn ${p===currentPage?"active":""}" onclick="goPage(${p})">${p}</button>`;
+  }
+  if (e < total) html += `<span style="color:var(--muted)">…</span><button class="page-btn" onclick="goPage(${total})">${total}</button>`;
+  html += `<button class="page-btn" onclick="goPage(${currentPage+1})" ${currentPage===total?"disabled":""}>▶</button>`;
+
+  pg.innerHTML = html;
+}
+
+function goPage(p) {
+  const total = Math.ceil(allArticles.length / PAGE_SIZE);
+  if (p < 1 || p > total) return;
+  currentPage = p;
+  renderArticles();
+  document.getElementById("article-list").scrollTop = 0;
+}
+
+function renderKeywords(sorted) {
+  const el = document.getElementById("keyword-list");
+  if (sorted.length === 0) {
+    el.innerHTML = `<div class="empty-state"><div class="icon">📭</div><p>키워드 데이터가 없습니다</p></div>`;
+    return;
+  }
+  const max = sorted[0][1];
+  el.innerHTML = sorted.map(([kw, cnt], i) => {
+    const pct = Math.round((cnt / max) * 100);
+    const top = i < 3 ? "top" : "";
+    return `
+      <div class="keyword-item">
+        <span class="kw-rank ${top}">${i+1}</span>
+        <div class="kw-bar-wrap">
+          <div class="kw-word">${kw}</div>
+          <div class="kw-bar-track">
+            <div class="kw-bar-fill" style="width:${pct}%"></div>
+          </div>
+        </div>
+        <span class="kw-count">${cnt}</span>
+      </div>`;
+  }).join("");
+}
+
+function showLoading() {
+  document.getElementById("article-list").innerHTML = `<div class="spinner"></div>`;
+  document.getElementById("keyword-list").innerHTML = `<div class="spinner"></div>`;
+}
+
+// ── 초기화 ────────────────────────────────────────────────────
+(function init() {
+  setToday();
+})();
+</script>
+</body>
+</html>
