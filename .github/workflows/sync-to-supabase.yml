@@ -1,0 +1,29 @@
+name: JSON → Supabase 동기화
+
+on:
+  push:
+    paths:
+      - 'data/articles/**.json'
+      - 'data/keywords/**.json'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: requests 설치
+        run: pip install requests
+
+      - name: Supabase 동기화 실행
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: python .github/scripts/sync.py
