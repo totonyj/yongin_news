@@ -2,35 +2,43 @@
   "date": "2026-06-15",
   "keywords": [
     {
-      "keyword": "아파트",
-      "count": 20
+      "keyword": "중상",
+      "count": 17
+    },
+    {
+      "keyword": "입건",
+      "count": 16
     },
     {
       "keyword": "거래",
-      "count": 18
+      "count": 14
     },
     {
-      "keyword": "중상",
-      "count": 15
-    },
-    {
-      "keyword": "카카오",
-      "count": 13
+      "keyword": "아파트",
+      "count": 14
     },
     {
       "keyword": "차량",
       "count": 12
     },
     {
-      "keyword": "빌라",
-      "count": 11
+      "keyword": "아워홈",
+      "count": 12
     },
     {
-      "keyword": "입건",
+      "keyword": "사고",
+      "count": 12
+    },
+    {
+      "keyword": "빌라",
+      "count": 12
+    },
+    {
+      "keyword": "남아",
       "count": 10
     },
     {
-      "keyword": "이상",
+      "keyword": "안전",
       "count": 10
     },
     {
@@ -38,47 +46,51 @@
       "count": 10
     },
     {
-      "keyword": "삼성전자",
-      "count": 10
-    },
-    {
-      "keyword": "공동",
+      "keyword": "민선",
       "count": 9
     },
     {
-      "keyword": "남아",
+      "keyword": "경찰",
+      "count": 9
+    },
+    {
+      "keyword": "공장",
+      "count": 9
+    },
+    {
+      "keyword": "카카오",
+      "count": 9
+    },
+    {
+      "keyword": "이상",
       "count": 8
     },
     {
-      "keyword": "사고",
+      "keyword": "이상일",
       "count": 8
     },
     {
-      "keyword": "하천",
-      "count": 8
-    },
-    {
-      "keyword": "단지",
+      "keyword": "르네상스",
       "count": 7
     },
     {
-      "keyword": "아워홈",
+      "keyword": "기획단",
       "count": 7
     },
     {
-      "keyword": "안전",
+      "keyword": "로드맵",
       "count": 7
     },
     {
-      "keyword": "산책로",
+      "keyword": "출범",
       "count": 7
     },
     {
-      "keyword": "양성",
+      "keyword": "삼성전자",
       "count": 7
     },
     {
-      "keyword": "인재",
+      "keyword": "운전자",
       "count": 6
     },
     {
@@ -86,56 +98,60 @@
       "count": 6
     },
     {
-      "keyword": "고가",
-      "count": 6
-    },
-    {
-      "keyword": "운전자",
-      "count": 6
-    },
-    {
-      "keyword": "해커톤",
-      "count": 6
-    },
-    {
       "keyword": "경기도",
+      "count": 6
+    },
+    {
+      "keyword": "공동",
+      "count": 6
+    },
+    {
+      "keyword": "단지",
+      "count": 6
+    },
+    {
+      "keyword": "수립",
       "count": 5
     },
     {
-      "keyword": "경찰",
+      "keyword": "근로자",
       "count": 5
     },
     {
-      "keyword": "공장",
+      "keyword": "책임자",
       "count": 5
     },
     {
-      "keyword": "강남",
+      "keyword": "양성",
       "count": 5
     },
     {
-      "keyword": "미만",
+      "keyword": "하천",
       "count": 5
     },
     {
-      "keyword": "안내",
+      "keyword": "산책로",
       "count": 5
     },
     {
-      "keyword": "지도",
-      "count": 5
+      "keyword": "시장",
+      "count": 4
     },
     {
       "keyword": "양극",
-      "count": 5
+      "count": 4
     },
     {
-      "keyword": "비중",
-      "count": 5
+      "keyword": "해커톤",
+      "count": 4
     },
     {
-      "keyword": "경로당",
-      "count": 5
+      "keyword": "임대",
+      "count": 4
+    },
+    {
+      "keyword": "영입",
+      "count": 4
     },
     {
       "keyword": "체납",
@@ -150,11 +166,15 @@
       "count": 4
     },
     {
-      "keyword": "이상일",
+      "keyword": "강남",
       "count": 4
     },
     {
-      "keyword": "해커",
+      "keyword": "인재",
+      "count": 4
+    },
+    {
+      "keyword": "고가",
       "count": 4
     },
     {
@@ -162,43 +182,23 @@
       "count": 4
     },
     {
-      "keyword": "아기",
+      "keyword": "비중",
       "count": 4
     },
     {
-      "keyword": "시군",
+      "keyword": "용인시장",
       "count": 3
     },
     {
-      "keyword": "조사",
+      "keyword": "반다비",
       "count": 3
     },
     {
-      "keyword": "민선",
+      "keyword": "체육",
       "count": 3
     },
     {
-      "keyword": "르네상스",
-      "count": 3
-    },
-    {
-      "keyword": "기획단",
-      "count": 3
-    },
-    {
-      "keyword": "출범",
-      "count": 3
-    },
-    {
-      "keyword": "개발자",
-      "count": 3
-    },
-    {
-      "keyword": "벨트",
-      "count": 3
-    },
-    {
-      "keyword": "임대",
+      "keyword": "센터",
       "count": 3
     }
   ]
