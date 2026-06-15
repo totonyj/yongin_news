@@ -6,75 +6,83 @@
       "count": 20
     },
     {
-      "keyword": "카카오",
-      "count": 17
-    },
-    {
       "keyword": "거래",
-      "count": 16
+      "count": 18
     },
     {
       "keyword": "중상",
       "count": 15
     },
     {
-      "keyword": "삼성전자",
-      "count": 14
+      "keyword": "카카오",
+      "count": 13
     },
     {
       "keyword": "차량",
       "count": 12
     },
     {
-      "keyword": "서울",
-      "count": 12
-    },
-    {
-      "keyword": "공동",
-      "count": 12
-    },
-    {
-      "keyword": "이상",
+      "keyword": "빌라",
       "count": 11
     },
     {
-      "keyword": "빌라",
+      "keyword": "입건",
       "count": 10
     },
     {
-      "keyword": "해커톤",
+      "keyword": "이상",
       "count": 10
     },
     {
-      "keyword": "인재",
+      "keyword": "서울",
+      "count": 10
+    },
+    {
+      "keyword": "삼성전자",
+      "count": 10
+    },
+    {
+      "keyword": "공동",
       "count": 9
-    },
-    {
-      "keyword": "하천",
-      "count": 9
-    },
-    {
-      "keyword": "양성",
-      "count": 8
-    },
-    {
-      "keyword": "산책로",
-      "count": 8
     },
     {
       "keyword": "남아",
+      "count": 8
+    },
+    {
+      "keyword": "사고",
+      "count": 8
+    },
+    {
+      "keyword": "하천",
+      "count": 8
+    },
+    {
+      "keyword": "단지",
       "count": 7
     },
     {
-      "keyword": "경로당",
+      "keyword": "아워홈",
       "count": 7
     },
     {
-      "keyword": "운전자",
+      "keyword": "안전",
+      "count": 7
+    },
+    {
+      "keyword": "산책로",
+      "count": 7
+    },
+    {
+      "keyword": "양성",
+      "count": 7
+    },
+    {
+      "keyword": "인재",
       "count": 6
     },
     {
-      "keyword": "비중",
+      "keyword": "반도체",
       "count": 6
     },
     {
@@ -82,19 +90,39 @@
       "count": 6
     },
     {
-      "keyword": "단지",
+      "keyword": "운전자",
       "count": 6
+    },
+    {
+      "keyword": "해커톤",
+      "count": 6
+    },
+    {
+      "keyword": "경기도",
+      "count": 5
+    },
+    {
+      "keyword": "경찰",
+      "count": 5
+    },
+    {
+      "keyword": "공장",
+      "count": 5
+    },
+    {
+      "keyword": "강남",
+      "count": 5
+    },
+    {
+      "keyword": "미만",
+      "count": 5
     },
     {
       "keyword": "안내",
-      "count": 6
+      "count": 5
     },
     {
       "keyword": "지도",
-      "count": 6
-    },
-    {
-      "keyword": "반도체",
       "count": 5
     },
     {
@@ -102,27 +130,27 @@
       "count": 5
     },
     {
-      "keyword": "맞손",
+      "keyword": "비중",
       "count": 5
     },
     {
-      "keyword": "동반",
+      "keyword": "경로당",
+      "count": 5
+    },
+    {
+      "keyword": "체납",
       "count": 4
     },
     {
-      "keyword": "아기",
+      "keyword": "관리",
       "count": 4
     },
     {
-      "keyword": "입건",
+      "keyword": "관리자",
       "count": 4
     },
     {
-      "keyword": "시장",
-      "count": 4
-    },
-    {
-      "keyword": "경기도",
+      "keyword": "이상일",
       "count": 4
     },
     {
@@ -130,76 +158,48 @@
       "count": 4
     },
     {
-      "keyword": "미만",
+      "keyword": "장석화",
       "count": 4
     },
     {
-      "keyword": "주차장",
+      "keyword": "아기",
+      "count": 4
+    },
+    {
+      "keyword": "시군",
       "count": 3
     },
     {
-      "keyword": "이상일",
+      "keyword": "조사",
       "count": 3
     },
     {
-      "keyword": "기념식",
+      "keyword": "민선",
       "count": 3
     },
     {
-      "keyword": "강남",
+      "keyword": "르네상스",
       "count": 3
     },
     {
-      "keyword": "광주",
+      "keyword": "기획단",
       "count": 3
     },
     {
-      "keyword": "국가",
+      "keyword": "출범",
       "count": 3
     },
     {
-      "keyword": "장석화",
+      "keyword": "개발자",
       "count": 3
     },
     {
-      "keyword": "체납",
+      "keyword": "벨트",
       "count": 3
     },
     {
-      "keyword": "관리",
+      "keyword": "임대",
       "count": 3
-    },
-    {
-      "keyword": "아이",
-      "count": 3
-    },
-    {
-      "keyword": "저가",
-      "count": 3
-    },
-    {
-      "keyword": "정보",
-      "count": 3
-    },
-    {
-      "keyword": "매매",
-      "count": 3
-    },
-    {
-      "keyword": "급증",
-      "count": 3
-    },
-    {
-      "keyword": "교육",
-      "count": 3
-    },
-    {
-      "keyword": "기흥구",
-      "count": 3
-    },
-    {
-      "keyword": "상승",
-      "count": 2
     }
   ]
 }
