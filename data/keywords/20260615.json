@@ -3,15 +3,15 @@
   "keywords": [
     {
       "keyword": "아파트",
-      "count": 21
+      "count": 20
     },
     {
       "keyword": "카카오",
-      "count": 18
+      "count": 17
     },
     {
       "keyword": "거래",
-      "count": 17
+      "count": 16
     },
     {
       "keyword": "중상",
@@ -19,26 +19,22 @@
     },
     {
       "keyword": "삼성전자",
-      "count": 15
-    },
-    {
-      "keyword": "서울",
-      "count": 13
-    },
-    {
-      "keyword": "공동",
-      "count": 13
-    },
-    {
-      "keyword": "이상",
-      "count": 12
+      "count": 14
     },
     {
       "keyword": "차량",
       "count": 12
     },
     {
-      "keyword": "해커톤",
+      "keyword": "서울",
+      "count": 12
+    },
+    {
+      "keyword": "공동",
+      "count": 12
+    },
+    {
+      "keyword": "이상",
       "count": 11
     },
     {
@@ -46,11 +42,11 @@
       "count": 10
     },
     {
-      "keyword": "인재",
+      "keyword": "해커톤",
       "count": 10
     },
     {
-      "keyword": "양성",
+      "keyword": "인재",
       "count": 9
     },
     {
@@ -58,12 +54,12 @@
       "count": 9
     },
     {
-      "keyword": "산책로",
+      "keyword": "양성",
       "count": 8
     },
     {
-      "keyword": "비중",
-      "count": 7
+      "keyword": "산책로",
+      "count": 8
     },
     {
       "keyword": "남아",
@@ -75,6 +71,10 @@
     },
     {
       "keyword": "운전자",
+      "count": 6
+    },
+    {
+      "keyword": "비중",
       "count": 6
     },
     {
@@ -94,16 +94,20 @@
       "count": 6
     },
     {
-      "keyword": "맞손",
-      "count": 6
-    },
-    {
       "keyword": "반도체",
       "count": 5
     },
     {
       "keyword": "양극",
       "count": 5
+    },
+    {
+      "keyword": "맞손",
+      "count": 5
+    },
+    {
+      "keyword": "동반",
+      "count": 4
     },
     {
       "keyword": "아기",
@@ -127,10 +131,6 @@
     },
     {
       "keyword": "미만",
-      "count": 4
-    },
-    {
-      "keyword": "동반",
       "count": 4
     },
     {
@@ -198,7 +198,7 @@
       "count": 3
     },
     {
-      "keyword": "돌파",
+      "keyword": "상승",
       "count": 2
     }
   ]
