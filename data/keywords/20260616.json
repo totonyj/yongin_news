@@ -2,27 +2,27 @@
   "date": "2026-06-16",
   "keywords": [
     {
-      "keyword": "센터",
+      "keyword": "경기도",
+      "count": 15
+    },
+    {
+      "keyword": "자동차세",
+      "count": 14
+    },
+    {
+      "keyword": "부과",
       "count": 12
     },
     {
-      "keyword": "이상일",
-      "count": 12
+      "keyword": "센터",
+      "count": 10
     },
     {
       "keyword": "야시장",
       "count": 10
     },
     {
-      "keyword": "반다비",
-      "count": 10
-    },
-    {
       "keyword": "체육",
-      "count": 10
-    },
-    {
-      "keyword": "자동차세",
       "count": 9
     },
     {
@@ -34,24 +34,52 @@
       "count": 9
     },
     {
-      "keyword": "경기도",
-      "count": 9
+      "keyword": "이상일",
+      "count": 8
     },
     {
-      "keyword": "시장",
-      "count": 9
+      "keyword": "반다비",
+      "count": 8
     },
     {
       "keyword": "건립",
-      "count": 8
+      "count": 7
     },
     {
       "keyword": "중앙시장",
       "count": 7
     },
     {
-      "keyword": "부과",
-      "count": 7
+      "keyword": "기저귀",
+      "count": 6
+    },
+    {
+      "keyword": "분유",
+      "count": 6
+    },
+    {
+      "keyword": "시장",
+      "count": 6
+    },
+    {
+      "keyword": "파크",
+      "count": 5
+    },
+    {
+      "keyword": "골프장",
+      "count": 5
+    },
+    {
+      "keyword": "개장",
+      "count": 5
+    },
+    {
+      "keyword": "지원",
+      "count": 5
+    },
+    {
+      "keyword": "납부",
+      "count": 5
     },
     {
       "keyword": "호수",
@@ -78,47 +106,43 @@
       "count": 5
     },
     {
-      "keyword": "기저귀",
-      "count": 5
-    },
-    {
-      "keyword": "분유",
-      "count": 5
-    },
-    {
       "keyword": "개막",
       "count": 5
     },
     {
-      "keyword": "민선",
-      "count": 5
+      "keyword": "서울",
+      "count": 4
     },
     {
-      "keyword": "의회",
-      "count": 5
+      "keyword": "산업",
+      "count": 4
+    },
+    {
+      "keyword": "사고",
+      "count": 4
+    },
+    {
+      "keyword": "아워홈",
+      "count": 4
+    },
+    {
+      "keyword": "소득",
+      "count": 4
+    },
+    {
+      "keyword": "조제",
+      "count": 4
     },
     {
       "keyword": "용인시장",
-      "count": 5
-    },
-    {
-      "keyword": "파크",
       "count": 4
     },
     {
-      "keyword": "골프장",
+      "keyword": "순위",
       "count": 4
     },
     {
-      "keyword": "개장",
-      "count": 4
-    },
-    {
-      "keyword": "광주",
-      "count": 4
-    },
-    {
-      "keyword": "지원",
+      "keyword": "공공",
       "count": 4
     },
     {
@@ -142,19 +166,27 @@
       "count": 4
     },
     {
-      "keyword": "공공",
-      "count": 4
-    },
-    {
-      "keyword": "강화",
-      "count": 4
-    },
-    {
       "keyword": "시민",
       "count": 4
     },
     {
-      "keyword": "납부",
+      "keyword": "의회",
+      "count": 4
+    },
+    {
+      "keyword": "감독",
+      "count": 3
+    },
+    {
+      "keyword": "착수",
+      "count": 3
+    },
+    {
+      "keyword": "내달",
+      "count": 3
+    },
+    {
+      "keyword": "협력",
       "count": 3
     },
     {
@@ -167,38 +199,6 @@
     },
     {
       "keyword": "수원",
-      "count": 3
-    },
-    {
-      "keyword": "임대",
-      "count": 3
-    },
-    {
-      "keyword": "영입",
-      "count": 3
-    },
-    {
-      "keyword": "동백",
-      "count": 3
-    },
-    {
-      "keyword": "음악분수",
-      "count": 3
-    },
-    {
-      "keyword": "너머",
-      "count": 3
-    },
-    {
-      "keyword": "아이디어",
-      "count": 3
-    },
-    {
-      "keyword": "안전",
-      "count": 3
-    },
-    {
-      "keyword": "서울",
       "count": 3
     }
   ]
