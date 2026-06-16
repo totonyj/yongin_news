@@ -3,19 +3,15 @@
   "keywords": [
     {
       "keyword": "경기도",
-      "count": 15
+      "count": 16
     },
     {
       "keyword": "자동차세",
-      "count": 14
+      "count": 15
     },
     {
       "keyword": "부과",
-      "count": 12
-    },
-    {
-      "keyword": "센터",
-      "count": 10
+      "count": 13
     },
     {
       "keyword": "야시장",
@@ -23,6 +19,10 @@
     },
     {
       "keyword": "체육",
+      "count": 9
+    },
+    {
+      "keyword": "센터",
       "count": 9
     },
     {
@@ -34,20 +34,32 @@
       "count": 9
     },
     {
-      "keyword": "이상일",
-      "count": 8
-    },
-    {
       "keyword": "반다비",
       "count": 8
     },
     {
-      "keyword": "건립",
+      "keyword": "이상일",
       "count": 7
     },
     {
-      "keyword": "중앙시장",
-      "count": 7
+      "keyword": "아워홈",
+      "count": 6
+    },
+    {
+      "keyword": "시장",
+      "count": 6
+    },
+    {
+      "keyword": "납부",
+      "count": 6
+    },
+    {
+      "keyword": "호수",
+      "count": 6
+    },
+    {
+      "keyword": "공원",
+      "count": 6
     },
     {
       "keyword": "기저귀",
@@ -58,8 +70,32 @@
       "count": 6
     },
     {
-      "keyword": "시장",
+      "keyword": "중앙시장",
       "count": 6
+    },
+    {
+      "keyword": "공장",
+      "count": 5
+    },
+    {
+      "keyword": "감독",
+      "count": 5
+    },
+    {
+      "keyword": "사고",
+      "count": 5
+    },
+    {
+      "keyword": "개막",
+      "count": 5
+    },
+    {
+      "keyword": "처인구",
+      "count": 5
+    },
+    {
+      "keyword": "활용",
+      "count": 5
     },
     {
       "keyword": "파크",
@@ -78,15 +114,7 @@
       "count": 5
     },
     {
-      "keyword": "납부",
-      "count": 5
-    },
-    {
-      "keyword": "호수",
-      "count": 5
-    },
-    {
-      "keyword": "공원",
+      "keyword": "건립",
       "count": 5
     },
     {
@@ -106,23 +134,31 @@
       "count": 5
     },
     {
-      "keyword": "개막",
-      "count": 5
+      "keyword": "노동부",
+      "count": 4
+    },
+    {
+      "keyword": "기획",
+      "count": 4
+    },
+    {
+      "keyword": "안전",
+      "count": 4
+    },
+    {
+      "keyword": "용인시장",
+      "count": 4
+    },
+    {
+      "keyword": "동백",
+      "count": 4
+    },
+    {
+      "keyword": "음악분수",
+      "count": 4
     },
     {
       "keyword": "서울",
-      "count": 4
-    },
-    {
-      "keyword": "산업",
-      "count": 4
-    },
-    {
-      "keyword": "사고",
-      "count": 4
-    },
-    {
-      "keyword": "아워홈",
       "count": 4
     },
     {
@@ -134,31 +170,7 @@
       "count": 4
     },
     {
-      "keyword": "용인시장",
-      "count": 4
-    },
-    {
-      "keyword": "순위",
-      "count": 4
-    },
-    {
-      "keyword": "공공",
-      "count": 4
-    },
-    {
-      "keyword": "울타리",
-      "count": 4
-    },
-    {
-      "keyword": "처인구",
-      "count": 4
-    },
-    {
       "keyword": "부지",
-      "count": 4
-    },
-    {
-      "keyword": "활용",
       "count": 4
     },
     {
@@ -166,39 +178,27 @@
       "count": 4
     },
     {
-      "keyword": "시민",
+      "keyword": "울타리",
       "count": 4
+    },
+    {
+      "keyword": "공공",
+      "count": 4
+    },
+    {
+      "keyword": "재발",
+      "count": 3
+    },
+    {
+      "keyword": "제조",
+      "count": 3
     },
     {
       "keyword": "의회",
-      "count": 4
-    },
-    {
-      "keyword": "감독",
-      "count": 3
-    },
-    {
-      "keyword": "착수",
-      "count": 3
-    },
-    {
-      "keyword": "내달",
       "count": 3
     },
     {
       "keyword": "협력",
-      "count": 3
-    },
-    {
-      "keyword": "본격",
-      "count": 3
-    },
-    {
-      "keyword": "기흥",
-      "count": 3
-    },
-    {
-      "keyword": "수원",
       "count": 3
     }
   ]
