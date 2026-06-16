@@ -2,67 +2,43 @@
   "date": "2026-06-16",
   "keywords": [
     {
-      "keyword": "이상일",
-      "count": 16
-    },
-    {
-      "keyword": "민선",
-      "count": 15
-    },
-    {
-      "keyword": "입건",
-      "count": 13
-    },
-    {
-      "keyword": "아워홈",
-      "count": 12
-    },
-    {
-      "keyword": "안전",
-      "count": 12
-    },
-    {
-      "keyword": "르네상스",
-      "count": 11
-    },
-    {
-      "keyword": "기획단",
-      "count": 11
-    },
-    {
-      "keyword": "공장",
-      "count": 11
-    },
-    {
       "keyword": "센터",
+      "count": 12
+    },
+    {
+      "keyword": "이상일",
+      "count": 12
+    },
+    {
+      "keyword": "야시장",
       "count": 10
     },
     {
-      "keyword": "로드맵",
+      "keyword": "반다비",
       "count": 10
     },
     {
-      "keyword": "경찰",
+      "keyword": "체육",
       "count": 10
     },
     {
-      "keyword": "사고",
-      "count": 10
+      "keyword": "자동차세",
+      "count": 9
+    },
+    {
+      "keyword": "별빛",
+      "count": 9
+    },
+    {
+      "keyword": "마당",
+      "count": 9
     },
     {
       "keyword": "경기도",
       "count": 9
     },
     {
-      "keyword": "체육",
-      "count": 9
-    },
-    {
-      "keyword": "반다비",
-      "count": 9
-    },
-    {
-      "keyword": "출범",
+      "keyword": "시장",
       "count": 9
     },
     {
@@ -70,95 +46,123 @@
       "count": 8
     },
     {
-      "keyword": "시민",
+      "keyword": "중앙시장",
       "count": 7
-    },
-    {
-      "keyword": "의회",
-      "count": 7
-    },
-    {
-      "keyword": "시장",
-      "count": 7
-    },
-    {
-      "keyword": "수립",
-      "count": 7
-    },
-    {
-      "keyword": "책임자",
-      "count": 7
-    },
-    {
-      "keyword": "자동차세",
-      "count": 6
-    },
-    {
-      "keyword": "용인시장",
-      "count": 6
     },
     {
       "keyword": "부과",
+      "count": 7
+    },
+    {
+      "keyword": "호수",
       "count": 5
     },
     {
-      "keyword": "야시장",
+      "keyword": "공원",
       "count": 5
     },
     {
-      "keyword": "서울",
+      "keyword": "건축",
       "count": 5
     },
     {
-      "keyword": "장석환",
+      "keyword": "현장",
       "count": 5
     },
     {
-      "keyword": "재선",
+      "keyword": "교차",
       "count": 5
     },
     {
-      "keyword": "광주",
+      "keyword": "점검",
       "count": 5
     },
     {
-      "keyword": "임대",
+      "keyword": "기저귀",
       "count": 5
     },
     {
-      "keyword": "영입",
+      "keyword": "분유",
       "count": 5
-    },
-    {
-      "keyword": "별빛",
-      "count": 4
-    },
-    {
-      "keyword": "마당",
-      "count": 4
-    },
-    {
-      "keyword": "순위",
-      "count": 4
-    },
-    {
-      "keyword": "시즌",
-      "count": 4
-    },
-    {
-      "keyword": "광주FC",
-      "count": 4
-    },
-    {
-      "keyword": "수비수",
-      "count": 4
-    },
-    {
-      "keyword": "근로자",
-      "count": 4
     },
     {
       "keyword": "개막",
+      "count": 5
+    },
+    {
+      "keyword": "민선",
+      "count": 5
+    },
+    {
+      "keyword": "의회",
+      "count": 5
+    },
+    {
+      "keyword": "용인시장",
+      "count": 5
+    },
+    {
+      "keyword": "파크",
+      "count": 4
+    },
+    {
+      "keyword": "골프장",
+      "count": 4
+    },
+    {
+      "keyword": "개장",
+      "count": 4
+    },
+    {
+      "keyword": "광주",
+      "count": 4
+    },
+    {
+      "keyword": "지원",
+      "count": 4
+    },
+    {
+      "keyword": "울타리",
+      "count": 4
+    },
+    {
+      "keyword": "처인구",
+      "count": 4
+    },
+    {
+      "keyword": "부지",
+      "count": 4
+    },
+    {
+      "keyword": "활용",
+      "count": 4
+    },
+    {
+      "keyword": "공모전",
+      "count": 4
+    },
+    {
+      "keyword": "공공",
+      "count": 4
+    },
+    {
+      "keyword": "강화",
+      "count": 4
+    },
+    {
+      "keyword": "시민",
+      "count": 4
+    },
+    {
+      "keyword": "납부",
+      "count": 3
+    },
+    {
+      "keyword": "본격",
+      "count": 3
+    },
+    {
+      "keyword": "기흥",
       "count": 3
     },
     {
@@ -166,39 +170,35 @@
       "count": 3
     },
     {
-      "keyword": "중앙시장",
+      "keyword": "임대",
       "count": 3
     },
     {
-      "keyword": "관리",
+      "keyword": "영입",
       "count": 3
     },
     {
-      "keyword": "반도체",
+      "keyword": "동백",
       "count": 3
     },
     {
-      "keyword": "산업",
+      "keyword": "음악분수",
       "count": 3
     },
     {
-      "keyword": "협력",
+      "keyword": "너머",
       "count": 3
     },
     {
-      "keyword": "남아",
+      "keyword": "아이디어",
       "count": 3
     },
     {
-      "keyword": "중상",
+      "keyword": "안전",
       "count": 3
     },
     {
-      "keyword": "카카오",
-      "count": 3
-    },
-    {
-      "keyword": "삼성전자",
+      "keyword": "서울",
       "count": 3
     }
   ]
