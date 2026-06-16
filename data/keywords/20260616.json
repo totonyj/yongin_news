@@ -3,30 +3,30 @@
   "keywords": [
     {
       "keyword": "경기도",
-      "count": 19
-    },
-    {
-      "keyword": "자동차세",
       "count": 18
     },
     {
+      "keyword": "자동차세",
+      "count": 17
+    },
+    {
       "keyword": "부과",
-      "count": 16
+      "count": 15
     },
     {
       "keyword": "야시장",
-      "count": 11
+      "count": 9
     },
     {
       "keyword": "별빛",
-      "count": 10
+      "count": 8
     },
     {
       "keyword": "마당",
-      "count": 10
+      "count": 8
     },
     {
-      "keyword": "개막",
+      "keyword": "아워홈",
       "count": 7
     },
     {
@@ -50,6 +50,26 @@
       "count": 7
     },
     {
+      "keyword": "파크",
+      "count": 6
+    },
+    {
+      "keyword": "골프장",
+      "count": 6
+    },
+    {
+      "keyword": "개장",
+      "count": 6
+    },
+    {
+      "keyword": "공장",
+      "count": 6
+    },
+    {
+      "keyword": "사고",
+      "count": 6
+    },
+    {
       "keyword": "이상일",
       "count": 6
     },
@@ -66,18 +86,6 @@
       "count": 6
     },
     {
-      "keyword": "중앙시장",
-      "count": 6
-    },
-    {
-      "keyword": "지원",
-      "count": 6
-    },
-    {
-      "keyword": "아워홈",
-      "count": 6
-    },
-    {
       "keyword": "호수",
       "count": 6
     },
@@ -86,15 +94,15 @@
       "count": 6
     },
     {
-      "keyword": "기저귀",
-      "count": 6
+      "keyword": "안전",
+      "count": 5
     },
     {
-      "keyword": "분유",
-      "count": 6
+      "keyword": "기획",
+      "count": 5
     },
     {
-      "keyword": "울타리",
+      "keyword": "개막",
       "count": 5
     },
     {
@@ -102,7 +110,11 @@
       "count": 5
     },
     {
-      "keyword": "공장",
+      "keyword": "중앙시장",
+      "count": 5
+    },
+    {
+      "keyword": "지원",
       "count": 5
     },
     {
@@ -110,15 +122,11 @@
       "count": 5
     },
     {
-      "keyword": "사고",
+      "keyword": "기저귀",
       "count": 5
     },
     {
-      "keyword": "파크",
-      "count": 5
-    },
-    {
-      "keyword": "골프장",
+      "keyword": "분유",
       "count": 5
     },
     {
@@ -134,7 +142,7 @@
       "count": 5
     },
     {
-      "keyword": "너머",
+      "keyword": "울타리",
       "count": 4
     },
     {
@@ -146,19 +154,7 @@
       "count": 4
     },
     {
-      "keyword": "기획",
-      "count": 4
-    },
-    {
-      "keyword": "안전",
-      "count": 4
-    },
-    {
       "keyword": "음악분수",
-      "count": 4
-    },
-    {
-      "keyword": "개장",
       "count": 4
     },
     {
@@ -166,7 +162,7 @@
       "count": 4
     },
     {
-      "keyword": "조제",
+      "keyword": "공모전",
       "count": 4
     },
     {
@@ -174,8 +170,12 @@
       "count": 4
     },
     {
-      "keyword": "공모전",
-      "count": 4
+      "keyword": "기흥호수공원",
+      "count": 3
+    },
+    {
+      "keyword": "민선",
+      "count": 3
     },
     {
       "keyword": "의회",
@@ -183,6 +183,10 @@
     },
     {
       "keyword": "연극",
+      "count": 3
+    },
+    {
+      "keyword": "너머",
       "count": 3
     },
     {
@@ -195,10 +199,6 @@
     },
     {
       "keyword": "건립",
-      "count": 3
-    },
-    {
-      "keyword": "아동",
       "count": 3
     }
   ]
