@@ -15,30 +15,34 @@
     },
     {
       "keyword": "야시장",
-      "count": 13
+      "count": 11
     },
     {
       "keyword": "별빛",
-      "count": 11
+      "count": 10
     },
     {
       "keyword": "마당",
-      "count": 11
-    },
-    {
-      "keyword": "중앙시장",
-      "count": 8
+      "count": 10
     },
     {
       "keyword": "개막",
       "count": 7
     },
     {
-      "keyword": "시장",
+      "keyword": "반다비",
       "count": 7
     },
     {
       "keyword": "체육",
+      "count": 7
+    },
+    {
+      "keyword": "센터",
+      "count": 7
+    },
+    {
+      "keyword": "시장",
       "count": 7
     },
     {
@@ -50,6 +54,10 @@
       "count": 6
     },
     {
+      "keyword": "현장",
+      "count": 6
+    },
+    {
       "keyword": "처인구",
       "count": 6
     },
@@ -58,11 +66,7 @@
       "count": 6
     },
     {
-      "keyword": "반다비",
-      "count": 6
-    },
-    {
-      "keyword": "센터",
+      "keyword": "중앙시장",
       "count": 6
     },
     {
@@ -90,6 +94,10 @@
       "count": 6
     },
     {
+      "keyword": "울타리",
+      "count": 5
+    },
+    {
       "keyword": "부지",
       "count": 5
     },
@@ -114,15 +122,7 @@
       "count": 5
     },
     {
-      "keyword": "개장",
-      "count": 5
-    },
-    {
       "keyword": "건축",
-      "count": 5
-    },
-    {
-      "keyword": "현장",
       "count": 5
     },
     {
@@ -132,6 +132,10 @@
     {
       "keyword": "점검",
       "count": 5
+    },
+    {
+      "keyword": "너머",
+      "count": 4
     },
     {
       "keyword": "아이디어",
@@ -154,6 +158,10 @@
       "count": 4
     },
     {
+      "keyword": "개장",
+      "count": 4
+    },
+    {
       "keyword": "소득",
       "count": 4
     },
@@ -170,15 +178,19 @@
       "count": 4
     },
     {
-      "keyword": "울타리",
-      "count": 4
-    },
-    {
-      "keyword": "용인시장",
+      "keyword": "의회",
       "count": 3
     },
     {
-      "keyword": "시민",
+      "keyword": "연극",
+      "count": 3
+    },
+    {
+      "keyword": "무대",
+      "count": 3
+    },
+    {
+      "keyword": "용인시장",
       "count": 3
     },
     {
@@ -186,19 +198,7 @@
       "count": 3
     },
     {
-      "keyword": "복지",
-      "count": 3
-    },
-    {
       "keyword": "아동",
-      "count": 3
-    },
-    {
-      "keyword": "재발",
-      "count": 3
-    },
-    {
-      "keyword": "제조",
       "count": 3
     }
   ]
