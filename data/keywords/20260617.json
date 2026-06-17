@@ -2,47 +2,63 @@
   "date": "2026-06-17",
   "keywords": [
     {
-      "keyword": "경기도",
-      "count": 17
-    },
-    {
-      "keyword": "자동차세",
-      "count": 13
-    },
-    {
-      "keyword": "부과",
-      "count": 13
-    },
-    {
       "keyword": "시장",
-      "count": 12
+      "count": 11
     },
     {
-      "keyword": "야시장",
+      "keyword": "GS건설",
       "count": 10
     },
     {
-      "keyword": "이상일",
+      "keyword": "경기도",
+      "count": 10
+    },
+    {
+      "keyword": "안전",
+      "count": 9
+    },
+    {
+      "keyword": "현장",
       "count": 8
     },
     {
-      "keyword": "별빛",
+      "keyword": "지원",
       "count": 8
     },
     {
-      "keyword": "마당",
+      "keyword": "자동차세",
       "count": 8
+    },
+    {
+      "keyword": "부과",
+      "count": 8
+    },
+    {
+      "keyword": "건설",
+      "count": 7
     },
     {
       "keyword": "반도체",
       "count": 7
     },
     {
-      "keyword": "체육",
+      "keyword": "교육",
       "count": 6
     },
     {
-      "keyword": "사고",
+      "keyword": "강화",
+      "count": 6
+    },
+    {
+      "keyword": "이상일",
+      "count": 6
+    },
+    {
+      "keyword": "수출",
+      "count": 6
+    },
+    {
+      "keyword": "야시장",
       "count": 6
     },
     {
@@ -54,27 +70,27 @@
       "count": 6
     },
     {
-      "keyword": "공장",
-      "count": 6
+      "keyword": "중소",
+      "count": 5
     },
     {
-      "keyword": "아워홈",
-      "count": 6
+      "keyword": "역량",
+      "count": 5
+    },
+    {
+      "keyword": "개척",
+      "count": 5
     },
     {
       "keyword": "워크숍",
       "count": 5
     },
     {
-      "keyword": "시민",
+      "keyword": "별빛",
       "count": 5
     },
     {
-      "keyword": "납부",
-      "count": 5
-    },
-    {
-      "keyword": "개막",
+      "keyword": "마당",
       "count": 5
     },
     {
@@ -86,19 +102,27 @@
       "count": 5
     },
     {
-      "keyword": "수출",
+      "keyword": "예방",
       "count": 4
     },
     {
-      "keyword": "지원",
+      "keyword": "주민",
       "count": 4
     },
     {
-      "keyword": "의회",
+      "keyword": "유럽",
       "count": 4
     },
     {
-      "keyword": "용인시장",
+      "keyword": "아프리카",
+      "count": 4
+    },
+    {
+      "keyword": "상담",
+      "count": 4
+    },
+    {
+      "keyword": "시민",
       "count": 4
     },
     {
@@ -106,75 +130,19 @@
       "count": 4
     },
     {
-      "keyword": "안전",
-      "count": 4
-    },
-    {
-      "keyword": "기획",
-      "count": 4
-    },
-    {
-      "keyword": "반다비",
-      "count": 4
-    },
-    {
-      "keyword": "감독",
-      "count": 4
-    },
-    {
-      "keyword": "예산학교",
+      "keyword": "교원",
       "count": 3
     },
     {
-      "keyword": "개척",
+      "keyword": "연수",
       "count": 3
     },
     {
-      "keyword": "현장",
+      "keyword": "본격",
       "count": 3
     },
     {
-      "keyword": "내달",
-      "count": 3
-    },
-    {
-      "keyword": "기업",
-      "count": 3
-    },
-    {
-      "keyword": "주민",
-      "count": 3
-    },
-    {
-      "keyword": "중앙시장",
-      "count": 3
-    },
-    {
-      "keyword": "활용",
-      "count": 3
-    },
-    {
-      "keyword": "아이디어",
-      "count": 3
-    },
-    {
-      "keyword": "복지",
-      "count": 3
-    },
-    {
-      "keyword": "아동",
-      "count": 3
-    },
-    {
-      "keyword": "민선",
-      "count": 3
-    },
-    {
-      "keyword": "센터",
-      "count": 3
-    },
-    {
-      "keyword": "재발",
+      "keyword": "모집",
       "count": 3
     },
     {
@@ -182,24 +150,56 @@
       "count": 3
     },
     {
-      "keyword": "제조",
+      "keyword": "협약",
       "count": 3
     },
     {
-      "keyword": "주민참여예산위원회",
-      "count": 2
+      "keyword": "수도",
+      "count": 3
     },
     {
-      "keyword": "유럽",
-      "count": 2
+      "keyword": "소식",
+      "count": 3
     },
     {
-      "keyword": "아프리카",
-      "count": 2
+      "keyword": "용인시장",
+      "count": 3
     },
     {
-      "keyword": "무대",
-      "count": 2
+      "keyword": "백암",
+      "count": 3
+    },
+    {
+      "keyword": "예산",
+      "count": 3
+    },
+    {
+      "keyword": "위원회",
+      "count": 3
+    },
+    {
+      "keyword": "파견",
+      "count": 3
+    },
+    {
+      "keyword": "방제",
+      "count": 3
+    },
+    {
+      "keyword": "예산학교",
+      "count": 3
+    },
+    {
+      "keyword": "체육",
+      "count": 3
+    },
+    {
+      "keyword": "내달",
+      "count": 3
+    },
+    {
+      "keyword": "납부",
+      "count": 3
     }
   ]
 }
