@@ -2,63 +2,55 @@
   "date": "2026-06-17",
   "keywords": [
     {
-      "keyword": "GS건설",
-      "count": 37
-    },
-    {
       "keyword": "안전",
-      "count": 36
+      "count": 34
     },
     {
-      "keyword": "건설",
+      "keyword": "GS건설",
       "count": 32
     },
     {
+      "keyword": "건설",
+      "count": 27
+    },
+    {
       "keyword": "중소",
-      "count": 23
+      "count": 19
     },
     {
       "keyword": "현장",
-      "count": 22
+      "count": 18
     },
     {
       "keyword": "지원",
-      "count": 20
-    },
-    {
-      "keyword": "교육",
       "count": 17
     },
     {
-      "keyword": "노동부",
-      "count": 14
+      "keyword": "교육",
+      "count": 15
     },
     {
       "keyword": "시장",
+      "count": 13
+    },
+    {
+      "keyword": "노동부",
       "count": 12
     },
     {
-      "keyword": "개척",
-      "count": 10
-    },
-    {
       "keyword": "유럽",
-      "count": 10
+      "count": 11
     },
     {
       "keyword": "아프리카",
-      "count": 10
+      "count": 11
     },
     {
-      "keyword": "강화",
-      "count": 10
+      "keyword": "개척",
+      "count": 11
     },
     {
-      "keyword": "역량",
-      "count": 10
-    },
-    {
-      "keyword": "예방",
+      "keyword": "상담",
       "count": 10
     },
     {
@@ -66,56 +58,108 @@
       "count": 9
     },
     {
-      "keyword": "상담",
-      "count": 9
-    },
-    {
-      "keyword": "보건",
-      "count": 9
-    },
-    {
       "keyword": "수출",
-      "count": 8
+      "count": 9
     },
     {
       "keyword": "징검다리",
       "count": 8
     },
     {
-      "keyword": "고용",
+      "keyword": "보건",
       "count": 8
+    },
+    {
+      "keyword": "역량",
+      "count": 8
+    },
+    {
+      "keyword": "강화",
+      "count": 8
+    },
+    {
+      "keyword": "예방",
+      "count": 8
+    },
+    {
+      "keyword": "고용",
+      "count": 7
     },
     {
       "keyword": "프로젝트",
       "count": 7
     },
     {
-      "keyword": "개방",
-      "count": 6
-    },
-    {
       "keyword": "방제",
-      "count": 6
-    },
-    {
-      "keyword": "안양",
-      "count": 6
+      "count": 7
     },
     {
       "keyword": "지청",
       "count": 6
     },
     {
-      "keyword": "협약",
+      "keyword": "개방",
+      "count": 6
+    },
+    {
+      "keyword": "안양",
       "count": 5
     },
     {
-      "keyword": "산재",
+      "keyword": "의회",
+      "count": 5
+    },
+    {
+      "keyword": "의원",
       "count": 5
     },
     {
       "keyword": "인프라",
       "count": 5
+    },
+    {
+      "keyword": "산업",
+      "count": 5
+    },
+    {
+      "keyword": "발생",
+      "count": 5
+    },
+    {
+      "keyword": "초선",
+      "count": 4
+    },
+    {
+      "keyword": "오리엔테이션",
+      "count": 4
+    },
+    {
+      "keyword": "안양지청",
+      "count": 4
+    },
+    {
+      "keyword": "협약",
+      "count": 4
+    },
+    {
+      "keyword": "과수",
+      "count": 4
+    },
+    {
+      "keyword": "화상",
+      "count": 4
+    },
+    {
+      "keyword": "총력",
+      "count": 4
+    },
+    {
+      "keyword": "대학",
+      "count": 4
+    },
+    {
+      "keyword": "성과",
+      "count": 4
     },
     {
       "keyword": "정비사업",
@@ -126,39 +170,7 @@
       "count": 4
     },
     {
-      "keyword": "교원",
-      "count": 4
-    },
-    {
-      "keyword": "연수",
-      "count": 4
-    },
-    {
-      "keyword": "모집",
-      "count": 4
-    },
-    {
-      "keyword": "취약",
-      "count": 4
-    },
-    {
-      "keyword": "계층",
-      "count": 4
-    },
-    {
-      "keyword": "발생",
-      "count": 4
-    },
-    {
       "keyword": "재해",
-      "count": 4
-    },
-    {
-      "keyword": "본격",
-      "count": 4
-    },
-    {
-      "keyword": "산업",
       "count": 4
     },
     {
@@ -166,39 +178,27 @@
       "count": 4
     },
     {
-      "keyword": "현대건설",
-      "count": 3
-    },
-    {
-      "keyword": "분양",
-      "count": 3
-    },
-    {
       "keyword": "고용부",
       "count": 3
     },
     {
-      "keyword": "안양지청",
+      "keyword": "건설사",
       "count": 3
     },
     {
-      "keyword": "이마트",
+      "keyword": "투자",
       "count": 3
     },
     {
-      "keyword": "냉방",
+      "keyword": "과수원",
       "count": 3
     },
     {
-      "keyword": "용품",
+      "keyword": "파견",
       "count": 3
     },
     {
-      "keyword": "총력",
-      "count": 3
-    },
-    {
-      "keyword": "포르투갈",
+      "keyword": "그린",
       "count": 3
     }
   ]
