@@ -3,7 +3,7 @@
   "keywords": [
     {
       "keyword": "GS건설",
-      "count": 34
+      "count": 35
     },
     {
       "keyword": "안전",
@@ -11,11 +11,11 @@
     },
     {
       "keyword": "건설",
-      "count": 26
+      "count": 28
     },
     {
       "keyword": "중소",
-      "count": 20
+      "count": 21
     },
     {
       "keyword": "현장",
@@ -26,43 +26,35 @@
       "count": 18
     },
     {
-      "keyword": "시장",
-      "count": 13
+      "keyword": "교육",
+      "count": 14
     },
     {
       "keyword": "노동부",
-      "count": 13
+      "count": 14
     },
     {
-      "keyword": "교육",
-      "count": 13
+      "keyword": "시장",
+      "count": 12
     },
     {
       "keyword": "유럽",
-      "count": 12
+      "count": 11
     },
     {
       "keyword": "아프리카",
-      "count": 12
-    },
-    {
-      "keyword": "개척",
-      "count": 12
-    },
-    {
-      "keyword": "수출",
-      "count": 12
-    },
-    {
-      "keyword": "예방",
-      "count": 12
+      "count": 11
     },
     {
       "keyword": "강화",
       "count": 11
     },
     {
-      "keyword": "상담",
+      "keyword": "예방",
+      "count": 11
+    },
+    {
+      "keyword": "개척",
       "count": 10
     },
     {
@@ -70,8 +62,20 @@
       "count": 10
     },
     {
+      "keyword": "수출",
+      "count": 9
+    },
+    {
+      "keyword": "상담",
+      "count": 9
+    },
+    {
       "keyword": "보건",
       "count": 9
+    },
+    {
+      "keyword": "방제",
+      "count": 8
     },
     {
       "keyword": "징검다리",
@@ -86,8 +90,8 @@
       "count": 7
     },
     {
-      "keyword": "방제",
-      "count": 7
+      "keyword": "발생",
+      "count": 6
     },
     {
       "keyword": "안양",
@@ -102,7 +106,11 @@
       "count": 6
     },
     {
-      "keyword": "성과",
+      "keyword": "재해",
+      "count": 5
+    },
+    {
+      "keyword": "산업",
       "count": 5
     },
     {
@@ -114,19 +122,31 @@
       "count": 5
     },
     {
-      "keyword": "발생",
-      "count": 5
-    },
-    {
       "keyword": "인프라",
       "count": 5
     },
     {
-      "keyword": "개방",
+      "keyword": "파견",
       "count": 4
     },
     {
-      "keyword": "해외",
+      "keyword": "과수",
+      "count": 4
+    },
+    {
+      "keyword": "화상",
+      "count": 4
+    },
+    {
+      "keyword": "본격",
+      "count": 4
+    },
+    {
+      "keyword": "성과",
+      "count": 4
+    },
+    {
+      "keyword": "개방",
       "count": 4
     },
     {
@@ -150,18 +170,6 @@
       "count": 4
     },
     {
-      "keyword": "아카데미",
-      "count": 4
-    },
-    {
-      "keyword": "산업",
-      "count": 4
-    },
-    {
-      "keyword": "재해",
-      "count": 4
-    },
-    {
       "keyword": "교원",
       "count": 4
     },
@@ -174,31 +182,23 @@
       "count": 4
     },
     {
-      "keyword": "파견",
-      "count": 4
+      "keyword": "과수원",
+      "count": 3
     },
     {
-      "keyword": "반도체",
+      "keyword": "수도",
+      "count": 3
+    },
+    {
+      "keyword": "서울",
+      "count": 3
+    },
+    {
+      "keyword": "해외",
       "count": 3
     },
     {
       "keyword": "중소기업",
-      "count": 3
-    },
-    {
-      "keyword": "과수화상병",
-      "count": 3
-    },
-    {
-      "keyword": "과수",
-      "count": 3
-    },
-    {
-      "keyword": "화상",
-      "count": 3
-    },
-    {
-      "keyword": "혁신",
       "count": 3
     }
   ]
