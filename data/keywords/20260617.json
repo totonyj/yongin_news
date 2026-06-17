@@ -2,83 +2,91 @@
   "date": "2026-06-17",
   "keywords": [
     {
-      "keyword": "시장",
-      "count": 11
-    },
-    {
       "keyword": "GS건설",
-      "count": 10
-    },
-    {
-      "keyword": "경기도",
-      "count": 10
+      "count": 19
     },
     {
       "keyword": "안전",
-      "count": 9
-    },
-    {
-      "keyword": "현장",
-      "count": 8
-    },
-    {
-      "keyword": "지원",
-      "count": 8
-    },
-    {
-      "keyword": "자동차세",
-      "count": 8
-    },
-    {
-      "keyword": "부과",
-      "count": 8
+      "count": 18
     },
     {
       "keyword": "건설",
-      "count": 7
+      "count": 14
     },
     {
-      "keyword": "반도체",
-      "count": 7
+      "keyword": "현장",
+      "count": 14
     },
     {
-      "keyword": "교육",
-      "count": 6
+      "keyword": "지원",
+      "count": 14
     },
     {
-      "keyword": "강화",
-      "count": 6
-    },
-    {
-      "keyword": "이상일",
-      "count": 6
-    },
-    {
-      "keyword": "수출",
-      "count": 6
-    },
-    {
-      "keyword": "야시장",
-      "count": 6
-    },
-    {
-      "keyword": "파크",
-      "count": 6
-    },
-    {
-      "keyword": "골프장",
-      "count": 6
+      "keyword": "시장",
+      "count": 14
     },
     {
       "keyword": "중소",
-      "count": 5
+      "count": 12
     },
     {
-      "keyword": "역량",
-      "count": 5
+      "keyword": "교육",
+      "count": 12
+    },
+    {
+      "keyword": "예방",
+      "count": 10
+    },
+    {
+      "keyword": "강화",
+      "count": 8
     },
     {
       "keyword": "개척",
+      "count": 8
+    },
+    {
+      "keyword": "수출",
+      "count": 8
+    },
+    {
+      "keyword": "역량",
+      "count": 7
+    },
+    {
+      "keyword": "유럽",
+      "count": 7
+    },
+    {
+      "keyword": "아프리카",
+      "count": 7
+    },
+    {
+      "keyword": "경기도",
+      "count": 7
+    },
+    {
+      "keyword": "상담",
+      "count": 6
+    },
+    {
+      "keyword": "보건",
+      "count": 5
+    },
+    {
+      "keyword": "노동부",
+      "count": 5
+    },
+    {
+      "keyword": "시민",
+      "count": 5
+    },
+    {
+      "keyword": "이상일",
+      "count": 5
+    },
+    {
+      "keyword": "반도체",
       "count": 5
     },
     {
@@ -86,23 +94,63 @@
       "count": 5
     },
     {
-      "keyword": "별빛",
+      "keyword": "자동차세",
       "count": 5
     },
     {
-      "keyword": "마당",
+      "keyword": "부과",
       "count": 5
     },
     {
-      "keyword": "기흥호수공원",
-      "count": 5
+      "keyword": "고용",
+      "count": 4
     },
     {
-      "keyword": "개장",
-      "count": 5
+      "keyword": "본격",
+      "count": 4
     },
     {
-      "keyword": "예방",
+      "keyword": "방제",
+      "count": 4
+    },
+    {
+      "keyword": "산재",
+      "count": 4
+    },
+    {
+      "keyword": "산업",
+      "count": 4
+    },
+    {
+      "keyword": "재해",
+      "count": 4
+    },
+    {
+      "keyword": "체험",
+      "count": 4
+    },
+    {
+      "keyword": "협약",
+      "count": 4
+    },
+    {
+      "keyword": "성과",
+      "count": 4
+    },
+    {
+      "keyword": "교원",
+      "count": 4
+    },
+    {
+      "keyword": "연수",
+      "count": 4
+    },
+    {
+      "keyword": "모집",
+      "count": 4
+    },
+    {
+      "keyword": "파견",
       "count": 4
     },
     {
@@ -110,95 +158,47 @@
       "count": 4
     },
     {
-      "keyword": "유럽",
+      "keyword": "별빛",
       "count": 4
     },
     {
-      "keyword": "아프리카",
+      "keyword": "마당",
       "count": 4
     },
     {
-      "keyword": "상담",
+      "keyword": "야시장",
       "count": 4
     },
     {
-      "keyword": "시민",
-      "count": 4
-    },
-    {
-      "keyword": "지정",
-      "count": 4
-    },
-    {
-      "keyword": "교원",
+      "keyword": "집값",
       "count": 3
     },
     {
-      "keyword": "연수",
+      "keyword": "발생",
       "count": 3
     },
     {
-      "keyword": "본격",
+      "keyword": "총력",
       "count": 3
     },
     {
-      "keyword": "모집",
+      "keyword": "인프라",
       "count": 3
     },
     {
-      "keyword": "노동부",
+      "keyword": "혁신",
       "count": 3
     },
     {
-      "keyword": "협약",
+      "keyword": "협력사",
+      "count": 3
+    },
+    {
+      "keyword": "아카데미",
       "count": 3
     },
     {
       "keyword": "수도",
-      "count": 3
-    },
-    {
-      "keyword": "소식",
-      "count": 3
-    },
-    {
-      "keyword": "용인시장",
-      "count": 3
-    },
-    {
-      "keyword": "백암",
-      "count": 3
-    },
-    {
-      "keyword": "예산",
-      "count": 3
-    },
-    {
-      "keyword": "위원회",
-      "count": 3
-    },
-    {
-      "keyword": "파견",
-      "count": 3
-    },
-    {
-      "keyword": "방제",
-      "count": 3
-    },
-    {
-      "keyword": "예산학교",
-      "count": 3
-    },
-    {
-      "keyword": "체육",
-      "count": 3
-    },
-    {
-      "keyword": "내달",
-      "count": 3
-    },
-    {
-      "keyword": "납부",
       "count": 3
     }
   ]
