@@ -3,70 +3,86 @@
   "keywords": [
     {
       "keyword": "GS건설",
-      "count": 26
+      "count": 34
     },
     {
       "keyword": "안전",
-      "count": 26
+      "count": 32
     },
     {
       "keyword": "건설",
-      "count": 19
+      "count": 26
     },
     {
       "keyword": "중소",
-      "count": 15
+      "count": 20
     },
     {
       "keyword": "현장",
-      "count": 15
+      "count": 20
     },
     {
       "keyword": "지원",
-      "count": 15
+      "count": 18
+    },
+    {
+      "keyword": "시장",
+      "count": 13
+    },
+    {
+      "keyword": "노동부",
+      "count": 13
     },
     {
       "keyword": "교육",
       "count": 13
     },
     {
-      "keyword": "노동부",
-      "count": 11
-    },
-    {
-      "keyword": "수출",
-      "count": 10
-    },
-    {
-      "keyword": "시장",
-      "count": 10
-    },
-    {
-      "keyword": "예방",
-      "count": 10
-    },
-    {
-      "keyword": "강화",
-      "count": 9
-    },
-    {
       "keyword": "유럽",
-      "count": 9
+      "count": 12
     },
     {
       "keyword": "아프리카",
-      "count": 9
+      "count": 12
     },
     {
       "keyword": "개척",
-      "count": 9
+      "count": 12
+    },
+    {
+      "keyword": "수출",
+      "count": 12
+    },
+    {
+      "keyword": "예방",
+      "count": 12
+    },
+    {
+      "keyword": "강화",
+      "count": 11
+    },
+    {
+      "keyword": "상담",
+      "count": 10
     },
     {
       "keyword": "역량",
+      "count": 10
+    },
+    {
+      "keyword": "보건",
+      "count": 9
+    },
+    {
+      "keyword": "징검다리",
       "count": 8
     },
     {
       "keyword": "고용",
+      "count": 8
+    },
+    {
+      "keyword": "프로젝트",
       "count": 7
     },
     {
@@ -74,15 +90,11 @@
       "count": 7
     },
     {
-      "keyword": "상담",
-      "count": 7
-    },
-    {
-      "keyword": "징검다리",
+      "keyword": "안양",
       "count": 6
     },
     {
-      "keyword": "보건",
+      "keyword": "지청",
       "count": 6
     },
     {
@@ -90,7 +102,15 @@
       "count": 6
     },
     {
-      "keyword": "프로젝트",
+      "keyword": "성과",
+      "count": 5
+    },
+    {
+      "keyword": "협약",
+      "count": 5
+    },
+    {
+      "keyword": "산재",
       "count": 5
     },
     {
@@ -102,15 +122,19 @@
       "count": 5
     },
     {
-      "keyword": "안양",
+      "keyword": "개방",
       "count": 4
     },
     {
-      "keyword": "지청",
+      "keyword": "해외",
       "count": 4
     },
     {
-      "keyword": "협약",
+      "keyword": "학교",
+      "count": 4
+    },
+    {
+      "keyword": "협력사",
       "count": 4
     },
     {
@@ -130,23 +154,11 @@
       "count": 4
     },
     {
-      "keyword": "본격",
-      "count": 4
-    },
-    {
-      "keyword": "산재",
-      "count": 4
-    },
-    {
       "keyword": "산업",
       "count": 4
     },
     {
       "keyword": "재해",
-      "count": 4
-    },
-    {
-      "keyword": "성과",
       "count": 4
     },
     {
@@ -166,12 +178,12 @@
       "count": 4
     },
     {
-      "keyword": "시민",
-      "count": 4
+      "keyword": "반도체",
+      "count": 3
     },
     {
-      "keyword": "반도체",
-      "count": 4
+      "keyword": "중소기업",
+      "count": 3
     },
     {
       "keyword": "과수화상병",
@@ -186,19 +198,7 @@
       "count": 3
     },
     {
-      "keyword": "개방",
-      "count": 3
-    },
-    {
       "keyword": "혁신",
-      "count": 3
-    },
-    {
-      "keyword": "학교",
-      "count": 3
-    },
-    {
-      "keyword": "정비사업",
       "count": 3
     }
   ]
