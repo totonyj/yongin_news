@@ -3,31 +3,31 @@
   "keywords": [
     {
       "keyword": "GS건설",
-      "count": 35
+      "count": 37
     },
     {
       "keyword": "안전",
-      "count": 32
+      "count": 36
     },
     {
       "keyword": "건설",
-      "count": 28
+      "count": 32
     },
     {
       "keyword": "중소",
-      "count": 21
+      "count": 23
     },
     {
       "keyword": "현장",
-      "count": 20
+      "count": 22
     },
     {
       "keyword": "지원",
-      "count": 18
+      "count": 20
     },
     {
       "keyword": "교육",
-      "count": 14
+      "count": 17
     },
     {
       "keyword": "노동부",
@@ -38,23 +38,19 @@
       "count": 12
     },
     {
+      "keyword": "개척",
+      "count": 10
+    },
+    {
       "keyword": "유럽",
-      "count": 11
+      "count": 10
     },
     {
       "keyword": "아프리카",
-      "count": 11
+      "count": 10
     },
     {
       "keyword": "강화",
-      "count": 11
-    },
-    {
-      "keyword": "예방",
-      "count": 11
-    },
-    {
-      "keyword": "개척",
       "count": 10
     },
     {
@@ -62,7 +58,11 @@
       "count": 10
     },
     {
-      "keyword": "수출",
+      "keyword": "예방",
+      "count": 10
+    },
+    {
+      "keyword": "체험",
       "count": 9
     },
     {
@@ -74,7 +74,7 @@
       "count": 9
     },
     {
-      "keyword": "방제",
+      "keyword": "수출",
       "count": 8
     },
     {
@@ -90,7 +90,11 @@
       "count": 7
     },
     {
-      "keyword": "발생",
+      "keyword": "개방",
+      "count": 6
+    },
+    {
+      "keyword": "방제",
       "count": 6
     },
     {
@@ -100,18 +104,6 @@
     {
       "keyword": "지청",
       "count": 6
-    },
-    {
-      "keyword": "체험",
-      "count": 6
-    },
-    {
-      "keyword": "재해",
-      "count": 5
-    },
-    {
-      "keyword": "산업",
-      "count": 5
     },
     {
       "keyword": "협약",
@@ -126,47 +118,11 @@
       "count": 5
     },
     {
-      "keyword": "파견",
+      "keyword": "정비사업",
       "count": 4
     },
     {
-      "keyword": "과수",
-      "count": 4
-    },
-    {
-      "keyword": "화상",
-      "count": 4
-    },
-    {
-      "keyword": "본격",
-      "count": 4
-    },
-    {
-      "keyword": "성과",
-      "count": 4
-    },
-    {
-      "keyword": "개방",
-      "count": 4
-    },
-    {
-      "keyword": "학교",
-      "count": 4
-    },
-    {
-      "keyword": "협력사",
-      "count": 4
-    },
-    {
-      "keyword": "총력",
-      "count": 4
-    },
-    {
-      "keyword": "취약",
-      "count": 4
-    },
-    {
-      "keyword": "계층",
+      "keyword": "아카데미",
       "count": 4
     },
     {
@@ -182,23 +138,67 @@
       "count": 4
     },
     {
-      "keyword": "과수원",
+      "keyword": "취약",
+      "count": 4
+    },
+    {
+      "keyword": "계층",
+      "count": 4
+    },
+    {
+      "keyword": "발생",
+      "count": 4
+    },
+    {
+      "keyword": "재해",
+      "count": 4
+    },
+    {
+      "keyword": "본격",
+      "count": 4
+    },
+    {
+      "keyword": "산업",
+      "count": 4
+    },
+    {
+      "keyword": "학교",
+      "count": 4
+    },
+    {
+      "keyword": "현대건설",
       "count": 3
     },
     {
-      "keyword": "수도",
+      "keyword": "분양",
       "count": 3
     },
     {
-      "keyword": "서울",
+      "keyword": "고용부",
       "count": 3
     },
     {
-      "keyword": "해외",
+      "keyword": "안양지청",
       "count": 3
     },
     {
-      "keyword": "중소기업",
+      "keyword": "이마트",
+      "count": 3
+    },
+    {
+      "keyword": "냉방",
+      "count": 3
+    },
+    {
+      "keyword": "용품",
+      "count": 3
+    },
+    {
+      "keyword": "총력",
+      "count": 3
+    },
+    {
+      "keyword": "포르투갈",
       "count": 3
     }
   ]
