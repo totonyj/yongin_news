@@ -3,22 +3,26 @@
   "keywords": [
     {
       "keyword": "GS건설",
-      "count": 19
+      "count": 23
     },
     {
       "keyword": "안전",
-      "count": 18
+      "count": 23
     },
     {
       "keyword": "건설",
-      "count": 14
-    },
-    {
-      "keyword": "현장",
-      "count": 14
+      "count": 16
     },
     {
       "keyword": "지원",
+      "count": 16
+    },
+    {
+      "keyword": "현장",
+      "count": 15
+    },
+    {
+      "keyword": "중소",
       "count": 14
     },
     {
@@ -26,63 +30,63 @@
       "count": 14
     },
     {
-      "keyword": "중소",
-      "count": 12
+      "keyword": "교육",
+      "count": 13
     },
     {
-      "keyword": "교육",
-      "count": 12
+      "keyword": "수출",
+      "count": 10
     },
     {
       "keyword": "예방",
       "count": 10
     },
     {
+      "keyword": "유럽",
+      "count": 9
+    },
+    {
+      "keyword": "아프리카",
+      "count": 9
+    },
+    {
+      "keyword": "개척",
+      "count": 9
+    },
+    {
       "keyword": "강화",
       "count": 8
     },
     {
-      "keyword": "개척",
-      "count": 8
+      "keyword": "노동부",
+      "count": 7
     },
     {
-      "keyword": "수출",
-      "count": 8
+      "keyword": "상담",
+      "count": 7
     },
     {
       "keyword": "역량",
       "count": 7
     },
     {
-      "keyword": "유럽",
-      "count": 7
+      "keyword": "인프라",
+      "count": 5
     },
     {
-      "keyword": "아프리카",
-      "count": 7
+      "keyword": "체험",
+      "count": 5
     },
     {
-      "keyword": "경기도",
-      "count": 7
+      "keyword": "고용",
+      "count": 5
     },
     {
-      "keyword": "상담",
-      "count": 6
+      "keyword": "방제",
+      "count": 5
     },
     {
       "keyword": "보건",
-      "count": 5
-    },
-    {
-      "keyword": "노동부",
-      "count": 5
-    },
-    {
-      "keyword": "시민",
-      "count": 5
-    },
-    {
-      "keyword": "이상일",
       "count": 5
     },
     {
@@ -90,27 +94,19 @@
       "count": 5
     },
     {
-      "keyword": "워크숍",
-      "count": 5
+      "keyword": "징검다리",
+      "count": 4
     },
     {
-      "keyword": "자동차세",
-      "count": 5
+      "keyword": "발생",
+      "count": 4
     },
     {
-      "keyword": "부과",
-      "count": 5
-    },
-    {
-      "keyword": "고용",
+      "keyword": "아카데미",
       "count": 4
     },
     {
       "keyword": "본격",
-      "count": 4
-    },
-    {
-      "keyword": "방제",
       "count": 4
     },
     {
@@ -123,10 +119,6 @@
     },
     {
       "keyword": "재해",
-      "count": 4
-    },
-    {
-      "keyword": "체험",
       "count": 4
     },
     {
@@ -154,35 +146,39 @@
       "count": 4
     },
     {
+      "keyword": "시민",
+      "count": 4
+    },
+    {
+      "keyword": "이상일",
+      "count": 4
+    },
+    {
       "keyword": "주민",
       "count": 4
     },
     {
-      "keyword": "별빛",
+      "keyword": "워크숍",
       "count": 4
     },
     {
-      "keyword": "마당",
+      "keyword": "경기도",
       "count": 4
     },
     {
-      "keyword": "야시장",
-      "count": 4
-    },
-    {
-      "keyword": "집값",
+      "keyword": "안양",
       "count": 3
     },
     {
-      "keyword": "발생",
+      "keyword": "지청",
       "count": 3
     },
     {
-      "keyword": "총력",
+      "keyword": "프로젝트",
       "count": 3
     },
     {
-      "keyword": "인프라",
+      "keyword": "개방",
       "count": 3
     },
     {
@@ -190,15 +186,19 @@
       "count": 3
     },
     {
-      "keyword": "협력사",
+      "keyword": "학교",
       "count": 3
     },
     {
-      "keyword": "아카데미",
+      "keyword": "정비사업",
       "count": 3
     },
     {
-      "keyword": "수도",
+      "keyword": "건설사",
+      "count": 3
+    },
+    {
+      "keyword": "이마트",
       "count": 3
     }
   ]
