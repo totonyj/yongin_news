@@ -2,20 +2,56 @@
   "date": "2026-06-19",
   "keywords": [
     {
+      "keyword": "경기도",
+      "count": 11
+    },
+    {
       "keyword": "보건",
       "count": 11
+    },
+    {
+      "keyword": "점검",
+      "count": 10
     },
     {
       "keyword": "우수",
       "count": 10
     },
     {
-      "keyword": "경기도",
-      "count": 10
+      "keyword": "전세",
+      "count": 8
     },
     {
-      "keyword": "점검",
-      "count": 9
+      "keyword": "사기",
+      "count": 8
+    },
+    {
+      "keyword": "피해자",
+      "count": 8
+    },
+    {
+      "keyword": "권리",
+      "count": 8
+    },
+    {
+      "keyword": "구제",
+      "count": 8
+    },
+    {
+      "keyword": "법률",
+      "count": 8
+    },
+    {
+      "keyword": "교육",
+      "count": 8
+    },
+    {
+      "keyword": "성남시",
+      "count": 8
+    },
+    {
+      "keyword": "시장",
+      "count": 8
     },
     {
       "keyword": "의료",
@@ -26,44 +62,24 @@
       "count": 8
     },
     {
-      "keyword": "전세",
+      "keyword": "여름철",
       "count": 7
     },
     {
-      "keyword": "사기",
+      "keyword": "이상일",
       "count": 7
     },
     {
-      "keyword": "피해자",
-      "count": 7
+      "keyword": "취약",
+      "count": 6
     },
     {
-      "keyword": "권리",
-      "count": 7
+      "keyword": "반도체",
+      "count": 6
     },
     {
-      "keyword": "구제",
-      "count": 7
-    },
-    {
-      "keyword": "법률",
-      "count": 7
-    },
-    {
-      "keyword": "교육",
-      "count": 7
-    },
-    {
-      "keyword": "시장",
-      "count": 7
-    },
-    {
-      "keyword": "성남시",
-      "count": 7
-    },
-    {
-      "keyword": "수상",
-      "count": 7
+      "keyword": "문자",
+      "count": 6
     },
     {
       "keyword": "어린이집",
@@ -74,19 +90,19 @@
       "count": 6
     },
     {
-      "keyword": "반도체",
+      "keyword": "수상",
       "count": 6
     },
     {
-      "keyword": "여름철",
-      "count": 6
-    },
-    {
-      "keyword": "화장실",
+      "keyword": "안내",
       "count": 5
     },
     {
-      "keyword": "이상일",
+      "keyword": "지자체",
+      "count": 5
+    },
+    {
+      "keyword": "화장실",
       "count": 5
     },
     {
@@ -95,14 +111,6 @@
     },
     {
       "keyword": "아내",
-      "count": 5
-    },
-    {
-      "keyword": "문자",
-      "count": 5
-    },
-    {
-      "keyword": "취약",
       "count": 5
     },
     {
@@ -138,6 +146,26 @@
       "count": 5
     },
     {
+      "keyword": "연합회",
+      "count": 4
+    },
+    {
+      "keyword": "신입",
+      "count": 4
+    },
+    {
+      "keyword": "회원",
+      "count": 4
+    },
+    {
+      "keyword": "입단",
+      "count": 4
+    },
+    {
+      "keyword": "벤치마킹",
+      "count": 4
+    },
+    {
       "keyword": "몰카",
       "count": 4
     },
@@ -158,10 +186,6 @@
       "count": 4
     },
     {
-      "keyword": "지자체",
-      "count": 4
-    },
-    {
       "keyword": "재난",
       "count": 4
     },
@@ -175,30 +199,6 @@
     },
     {
       "keyword": "소득",
-      "count": 4
-    },
-    {
-      "keyword": "평판",
-      "count": 4
-    },
-    {
-      "keyword": "청소년",
-      "count": 4
-    },
-    {
-      "keyword": "구축",
-      "count": 4
-    },
-    {
-      "keyword": "집값",
-      "count": 4
-    },
-    {
-      "keyword": "안내",
-      "count": 4
-    },
-    {
-      "keyword": "행정",
       "count": 4
     }
   ]
