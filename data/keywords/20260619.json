@@ -3,62 +3,74 @@
   "keywords": [
     {
       "keyword": "경기도",
-      "count": 14
-    },
-    {
-      "keyword": "점검",
-      "count": 10
-    },
-    {
-      "keyword": "권리",
-      "count": 9
+      "count": 15
     },
     {
       "keyword": "우수",
+      "count": 11
+    },
+    {
+      "keyword": "점검",
+      "count": 11
+    },
+    {
+      "keyword": "권리",
+      "count": 10
+    },
+    {
+      "keyword": "보건",
+      "count": 9
+    },
+    {
+      "keyword": "성남시",
       "count": 9
     },
     {
       "keyword": "전세",
-      "count": 8
+      "count": 9
     },
     {
       "keyword": "사기",
-      "count": 8
+      "count": 9
     },
     {
       "keyword": "피해자",
-      "count": 8
-    },
-    {
-      "keyword": "반도체",
-      "count": 8
-    },
-    {
-      "keyword": "성남시",
-      "count": 8
-    },
-    {
-      "keyword": "보건",
-      "count": 7
-    },
-    {
-      "keyword": "시장",
-      "count": 7
-    },
-    {
-      "keyword": "구제",
-      "count": 7
-    },
-    {
-      "keyword": "법률",
-      "count": 7
-    },
-    {
-      "keyword": "여름철",
-      "count": 7
+      "count": 9
     },
     {
       "keyword": "의료",
+      "count": 8
+    },
+    {
+      "keyword": "시장",
+      "count": 8
+    },
+    {
+      "keyword": "구제",
+      "count": 8
+    },
+    {
+      "keyword": "법률",
+      "count": 8
+    },
+    {
+      "keyword": "여름철",
+      "count": 8
+    },
+    {
+      "keyword": "교육",
+      "count": 7
+    },
+    {
+      "keyword": "안전",
+      "count": 7
+    },
+    {
+      "keyword": "지자체",
+      "count": 6
+    },
+    {
+      "keyword": "기관",
       "count": 6
     },
     {
@@ -66,7 +78,7 @@
       "count": 6
     },
     {
-      "keyword": "구축",
+      "keyword": "반도체",
       "count": 6
     },
     {
@@ -74,19 +86,19 @@
       "count": 6
     },
     {
-      "keyword": "교육",
-      "count": 6
-    },
-    {
       "keyword": "평가",
       "count": 6
     },
     {
-      "keyword": "기업",
+      "keyword": "문자",
       "count": 5
     },
     {
-      "keyword": "문자",
+      "keyword": "정책",
+      "count": 5
+    },
+    {
+      "keyword": "구축",
       "count": 5
     },
     {
@@ -94,51 +106,15 @@
       "count": 5
     },
     {
-      "keyword": "기관",
-      "count": 5
-    },
-    {
       "keyword": "농어민",
       "count": 5
     },
     {
-      "keyword": "안전",
-      "count": 5
-    },
-    {
-      "keyword": "한국외대",
+      "keyword": "성과",
       "count": 4
     },
     {
-      "keyword": "재선",
-      "count": 4
-    },
-    {
-      "keyword": "도시",
-      "count": 4
-    },
-    {
-      "keyword": "정책",
-      "count": 4
-    },
-    {
-      "keyword": "통합",
-      "count": 4
-    },
-    {
-      "keyword": "연합회",
-      "count": 4
-    },
-    {
-      "keyword": "신입",
-      "count": 4
-    },
-    {
-      "keyword": "회원",
-      "count": 4
-    },
-    {
-      "keyword": "입단",
+      "keyword": "벤치마킹",
       "count": 4
     },
     {
@@ -146,7 +122,27 @@
       "count": 4
     },
     {
-      "keyword": "지자체",
+      "keyword": "서비스",
+      "count": 4
+    },
+    {
+      "keyword": "집중",
+      "count": 4
+    },
+    {
+      "keyword": "대비",
+      "count": 4
+    },
+    {
+      "keyword": "한국외대",
+      "count": 4
+    },
+    {
+      "keyword": "기업",
+      "count": 4
+    },
+    {
+      "keyword": "재선",
       "count": 4
     },
     {
@@ -178,6 +174,14 @@
       "count": 4
     },
     {
+      "keyword": "오늘",
+      "count": 3
+    },
+    {
+      "keyword": "대회",
+      "count": 3
+    },
+    {
       "keyword": "화재",
       "count": 3
     },
@@ -195,10 +199,6 @@
     },
     {
       "keyword": "복지부",
-      "count": 3
-    },
-    {
-      "keyword": "장관",
       "count": 3
     }
   ]
