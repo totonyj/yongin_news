@@ -3,19 +3,11 @@
   "keywords": [
     {
       "keyword": "보건",
-      "count": 10
+      "count": 12
     },
     {
       "keyword": "점검",
       "count": 9
-    },
-    {
-      "keyword": "경기도",
-      "count": 9
-    },
-    {
-      "keyword": "우수",
-      "count": 8
     },
     {
       "keyword": "어린이집",
@@ -23,78 +15,70 @@
     },
     {
       "keyword": "의료",
+      "count": 8
+    },
+    {
+      "keyword": "우수",
+      "count": 8
+    },
+    {
+      "keyword": "성남시",
       "count": 7
     },
     {
-      "keyword": "아내",
+      "keyword": "수상",
       "count": 7
+    },
+    {
+      "keyword": "경기도",
+      "count": 7
+    },
+    {
+      "keyword": "성과",
+      "count": 6
+    },
+    {
+      "keyword": "평가",
+      "count": 6
     },
     {
       "keyword": "반도체",
-      "count": 7
+      "count": 6
     },
     {
-      "keyword": "지원",
-      "count": 7
+      "keyword": "시장",
+      "count": 6
     },
     {
       "keyword": "여름철",
       "count": 6
     },
     {
+      "keyword": "아내",
+      "count": 6
+    },
+    {
+      "keyword": "문자",
+      "count": 5
+    },
+    {
+      "keyword": "취약",
+      "count": 5
+    },
+    {
+      "keyword": "복지부",
+      "count": 5
+    },
+    {
+      "keyword": "장관",
+      "count": 5
+    },
+    {
+      "keyword": "농어민",
+      "count": 5
+    },
+    {
       "keyword": "화장실",
-      "count": 6
-    },
-    {
-      "keyword": "성남시",
-      "count": 6
-    },
-    {
-      "keyword": "수상",
-      "count": 6
-    },
-    {
-      "keyword": "남편",
-      "count": 6
-    },
-    {
-      "keyword": "안전",
-      "count": 5
-    },
-    {
-      "keyword": "기관",
-      "count": 5
-    },
-    {
-      "keyword": "징역",
-      "count": 5
-    },
-    {
-      "keyword": "평가",
-      "count": 5
-    },
-    {
-      "keyword": "설치",
-      "count": 5
-    },
-    {
-      "keyword": "집값",
-      "count": 5
-    },
-    {
-      "keyword": "교육",
-      "count": 5
-    },
-    {
-      "keyword": "성과",
-      "count": 5
-    },
-    {
-      "keyword": "시장",
-      "count": 5
-    },
-    {
-      "keyword": "모집",
       "count": 5
     },
     {
@@ -102,19 +86,79 @@
       "count": 5
     },
     {
+      "keyword": "설치",
+      "count": 5
+    },
+    {
+      "keyword": "징역",
+      "count": 5
+    },
+    {
+      "keyword": "도시",
+      "count": 5
+    },
+    {
+      "keyword": "브랜드",
+      "count": 5
+    },
+    {
+      "keyword": "서울시",
+      "count": 5
+    },
+    {
+      "keyword": "기관",
+      "count": 5
+    },
+    {
+      "keyword": "안전",
+      "count": 5
+    },
+    {
+      "keyword": "집값",
+      "count": 5
+    },
+    {
       "keyword": "동탄",
       "count": 5
+    },
+    {
+      "keyword": "지자체",
+      "count": 4
     },
     {
       "keyword": "재난",
       "count": 4
     },
     {
-      "keyword": "취약",
+      "keyword": "상반기",
       "count": 4
     },
     {
-      "keyword": "청소년",
+      "keyword": "기회",
+      "count": 4
+    },
+    {
+      "keyword": "소득",
+      "count": 4
+    },
+    {
+      "keyword": "대회",
+      "count": 4
+    },
+    {
+      "keyword": "대한민국",
+      "count": 4
+    },
+    {
+      "keyword": "평판",
+      "count": 4
+    },
+    {
+      "keyword": "재선",
+      "count": 4
+    },
+    {
+      "keyword": "이상일",
       "count": 4
     },
     {
@@ -122,11 +166,7 @@
       "count": 4
     },
     {
-      "keyword": "농어민",
-      "count": 4
-    },
-    {
-      "keyword": "원장",
+      "keyword": "청소년",
       "count": 4
     },
     {
@@ -154,52 +194,12 @@
       "count": 4
     },
     {
+      "keyword": "교육",
+      "count": 4
+    },
+    {
       "keyword": "안내",
       "count": 4
-    },
-    {
-      "keyword": "장관",
-      "count": 4
-    },
-    {
-      "keyword": "기술",
-      "count": 4
-    },
-    {
-      "keyword": "행정",
-      "count": 4
-    },
-    {
-      "keyword": "문자",
-      "count": 4
-    },
-    {
-      "keyword": "도시",
-      "count": 4
-    },
-    {
-      "keyword": "브랜드",
-      "count": 4
-    },
-    {
-      "keyword": "서울시",
-      "count": 4
-    },
-    {
-      "keyword": "규제",
-      "count": 4
-    },
-    {
-      "keyword": "연합회",
-      "count": 3
-    },
-    {
-      "keyword": "신입",
-      "count": 3
-    },
-    {
-      "keyword": "회원",
-      "count": 3
     }
   ]
 }
