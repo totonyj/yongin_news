@@ -50,10 +50,6 @@
       "count": 8
     },
     {
-      "keyword": "시장",
-      "count": 8
-    },
-    {
       "keyword": "의료",
       "count": 8
     },
@@ -62,11 +58,15 @@
       "count": 8
     },
     {
+      "keyword": "반도체",
+      "count": 7
+    },
+    {
       "keyword": "여름철",
       "count": 7
     },
     {
-      "keyword": "이상일",
+      "keyword": "시장",
       "count": 7
     },
     {
@@ -74,7 +74,7 @@
       "count": 6
     },
     {
-      "keyword": "반도체",
+      "keyword": "이상일",
       "count": 6
     },
     {
@@ -90,8 +90,12 @@
       "count": 6
     },
     {
-      "keyword": "수상",
-      "count": 6
+      "keyword": "행정",
+      "count": 5
+    },
+    {
+      "keyword": "구축",
+      "count": 5
     },
     {
       "keyword": "안내",
@@ -106,10 +110,6 @@
       "count": 5
     },
     {
-      "keyword": "재선",
-      "count": 5
-    },
-    {
       "keyword": "아내",
       "count": 5
     },
@@ -119,6 +119,10 @@
     },
     {
       "keyword": "장관",
+      "count": 5
+    },
+    {
+      "keyword": "수상",
       "count": 5
     },
     {
@@ -144,6 +148,14 @@
     {
       "keyword": "안전",
       "count": 5
+    },
+    {
+      "keyword": "정책",
+      "count": 4
+    },
+    {
+      "keyword": "통합",
+      "count": 4
     },
     {
       "keyword": "연합회",
@@ -186,19 +198,7 @@
       "count": 4
     },
     {
-      "keyword": "재난",
-      "count": 4
-    },
-    {
-      "keyword": "상반기",
-      "count": 4
-    },
-    {
-      "keyword": "기회",
-      "count": 4
-    },
-    {
-      "keyword": "소득",
+      "keyword": "재선",
       "count": 4
     }
   ]
