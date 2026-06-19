@@ -3,11 +3,7 @@
   "keywords": [
     {
       "keyword": "경기도",
-      "count": 11
-    },
-    {
-      "keyword": "보건",
-      "count": 11
+      "count": 12
     },
     {
       "keyword": "점검",
@@ -16,6 +12,18 @@
     {
       "keyword": "우수",
       "count": 10
+    },
+    {
+      "keyword": "성남시",
+      "count": 9
+    },
+    {
+      "keyword": "권리",
+      "count": 9
+    },
+    {
+      "keyword": "보건",
+      "count": 9
     },
     {
       "keyword": "전세",
@@ -30,31 +38,11 @@
       "count": 8
     },
     {
-      "keyword": "권리",
-      "count": 8
-    },
-    {
       "keyword": "구제",
       "count": 8
     },
     {
       "keyword": "법률",
-      "count": 8
-    },
-    {
-      "keyword": "교육",
-      "count": 8
-    },
-    {
-      "keyword": "성남시",
-      "count": 8
-    },
-    {
-      "keyword": "의료",
-      "count": 8
-    },
-    {
-      "keyword": "평가",
       "count": 8
     },
     {
@@ -66,15 +54,23 @@
       "count": 7
     },
     {
+      "keyword": "교육",
+      "count": 7
+    },
+    {
       "keyword": "시장",
       "count": 7
     },
     {
-      "keyword": "취약",
-      "count": 6
+      "keyword": "의료",
+      "count": 7
     },
     {
-      "keyword": "이상일",
+      "keyword": "평가",
+      "count": 7
+    },
+    {
+      "keyword": "취약",
       "count": 6
     },
     {
@@ -90,15 +86,11 @@
       "count": 6
     },
     {
-      "keyword": "행정",
-      "count": 5
-    },
-    {
       "keyword": "구축",
       "count": 5
     },
     {
-      "keyword": "안내",
+      "keyword": "이상일",
       "count": 5
     },
     {
@@ -114,40 +106,20 @@
       "count": 5
     },
     {
-      "keyword": "복지부",
-      "count": 5
-    },
-    {
-      "keyword": "장관",
-      "count": 5
-    },
-    {
-      "keyword": "수상",
-      "count": 5
-    },
-    {
-      "keyword": "성과",
-      "count": 5
-    },
-    {
       "keyword": "농어민",
-      "count": 5
-    },
-    {
-      "keyword": "도시",
-      "count": 5
-    },
-    {
-      "keyword": "브랜드",
-      "count": 5
-    },
-    {
-      "keyword": "서울시",
       "count": 5
     },
     {
       "keyword": "안전",
       "count": 5
+    },
+    {
+      "keyword": "기업",
+      "count": 4
+    },
+    {
+      "keyword": "행정",
+      "count": 4
     },
     {
       "keyword": "정책",
@@ -174,6 +146,10 @@
       "count": 4
     },
     {
+      "keyword": "안내",
+      "count": 4
+    },
+    {
       "keyword": "벤치마킹",
       "count": 4
     },
@@ -190,15 +166,39 @@
       "count": 4
     },
     {
-      "keyword": "에릭",
+      "keyword": "재난",
       "count": 4
     },
     {
-      "keyword": "근황",
+      "keyword": "상반기",
       "count": 4
     },
     {
-      "keyword": "재선",
+      "keyword": "기회",
+      "count": 4
+    },
+    {
+      "keyword": "소득",
+      "count": 4
+    },
+    {
+      "keyword": "도시",
+      "count": 4
+    },
+    {
+      "keyword": "브랜드",
+      "count": 4
+    },
+    {
+      "keyword": "평판",
+      "count": 4
+    },
+    {
+      "keyword": "서울시",
+      "count": 4
+    },
+    {
+      "keyword": "청소년",
       "count": 4
     }
   ]
