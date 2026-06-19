@@ -3,26 +3,18 @@
   "keywords": [
     {
       "keyword": "경기도",
-      "count": 12
+      "count": 14
     },
     {
       "keyword": "점검",
       "count": 10
     },
     {
-      "keyword": "우수",
-      "count": 10
-    },
-    {
-      "keyword": "성남시",
-      "count": 9
-    },
-    {
       "keyword": "권리",
       "count": 9
     },
     {
-      "keyword": "보건",
+      "keyword": "우수",
       "count": 9
     },
     {
@@ -38,23 +30,15 @@
       "count": 8
     },
     {
-      "keyword": "구제",
-      "count": 8
-    },
-    {
-      "keyword": "법률",
-      "count": 8
-    },
-    {
       "keyword": "반도체",
-      "count": 7
+      "count": 8
     },
     {
-      "keyword": "여름철",
-      "count": 7
+      "keyword": "성남시",
+      "count": 8
     },
     {
-      "keyword": "교육",
+      "keyword": "보건",
       "count": 7
     },
     {
@@ -62,47 +46,55 @@
       "count": 7
     },
     {
-      "keyword": "의료",
+      "keyword": "구제",
       "count": 7
     },
     {
-      "keyword": "평가",
+      "keyword": "법률",
       "count": 7
+    },
+    {
+      "keyword": "여름철",
+      "count": 7
+    },
+    {
+      "keyword": "의료",
+      "count": 6
+    },
+    {
+      "keyword": "이상일",
+      "count": 6
+    },
+    {
+      "keyword": "구축",
+      "count": 6
     },
     {
       "keyword": "취약",
       "count": 6
     },
     {
-      "keyword": "문자",
+      "keyword": "교육",
       "count": 6
+    },
+    {
+      "keyword": "평가",
+      "count": 6
+    },
+    {
+      "keyword": "기업",
+      "count": 5
+    },
+    {
+      "keyword": "문자",
+      "count": 5
     },
     {
       "keyword": "어린이집",
-      "count": 6
+      "count": 5
     },
     {
       "keyword": "기관",
-      "count": 6
-    },
-    {
-      "keyword": "구축",
-      "count": 5
-    },
-    {
-      "keyword": "이상일",
-      "count": 5
-    },
-    {
-      "keyword": "지자체",
-      "count": 5
-    },
-    {
-      "keyword": "화장실",
-      "count": 5
-    },
-    {
-      "keyword": "아내",
       "count": 5
     },
     {
@@ -114,11 +106,15 @@
       "count": 5
     },
     {
-      "keyword": "기업",
+      "keyword": "한국외대",
       "count": 4
     },
     {
-      "keyword": "행정",
+      "keyword": "재선",
+      "count": 4
+    },
+    {
+      "keyword": "도시",
       "count": 4
     },
     {
@@ -150,19 +146,15 @@
       "count": 4
     },
     {
-      "keyword": "벤치마킹",
+      "keyword": "지자체",
       "count": 4
     },
     {
-      "keyword": "몰카",
+      "keyword": "화장실",
       "count": 4
     },
     {
-      "keyword": "설치",
-      "count": 4
-    },
-    {
-      "keyword": "징역",
+      "keyword": "아내",
       "count": 4
     },
     {
@@ -182,24 +174,32 @@
       "count": 4
     },
     {
-      "keyword": "도시",
-      "count": 4
-    },
-    {
-      "keyword": "브랜드",
-      "count": 4
-    },
-    {
-      "keyword": "평판",
-      "count": 4
-    },
-    {
-      "keyword": "서울시",
-      "count": 4
-    },
-    {
       "keyword": "청소년",
       "count": 4
+    },
+    {
+      "keyword": "화재",
+      "count": 3
+    },
+    {
+      "keyword": "사업단",
+      "count": 3
+    },
+    {
+      "keyword": "혁신",
+      "count": 3
+    },
+    {
+      "keyword": "어라우드메이트",
+      "count": 3
+    },
+    {
+      "keyword": "복지부",
+      "count": 3
+    },
+    {
+      "keyword": "장관",
+      "count": 3
     }
   ]
 }
