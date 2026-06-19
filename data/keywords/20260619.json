@@ -66,15 +66,11 @@
       "count": 7
     },
     {
-      "keyword": "기관",
-      "count": 6
-    },
-    {
-      "keyword": "아내",
-      "count": 6
-    },
-    {
       "keyword": "어린이집",
+      "count": 6
+    },
+    {
+      "keyword": "기관",
       "count": 6
     },
     {
@@ -86,11 +82,19 @@
       "count": 6
     },
     {
+      "keyword": "화장실",
+      "count": 5
+    },
+    {
       "keyword": "이상일",
       "count": 5
     },
     {
       "keyword": "재선",
+      "count": 5
+    },
+    {
+      "keyword": "아내",
       "count": 5
     },
     {
@@ -134,6 +138,18 @@
       "count": 5
     },
     {
+      "keyword": "몰카",
+      "count": 4
+    },
+    {
+      "keyword": "설치",
+      "count": 4
+    },
+    {
+      "keyword": "징역",
+      "count": 4
+    },
+    {
       "keyword": "에릭",
       "count": 4
     },
@@ -159,22 +175,6 @@
     },
     {
       "keyword": "소득",
-      "count": 4
-    },
-    {
-      "keyword": "화장실",
-      "count": 4
-    },
-    {
-      "keyword": "몰카",
-      "count": 4
-    },
-    {
-      "keyword": "설치",
-      "count": 4
-    },
-    {
-      "keyword": "징역",
       "count": 4
     },
     {
