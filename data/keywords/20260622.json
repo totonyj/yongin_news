@@ -3,66 +3,66 @@
   "keywords": [
     {
       "keyword": "카카오게임즈",
-      "count": 32
-    },
-    {
-      "keyword": "공동",
-      "count": 15
+      "count": 36
     },
     {
       "keyword": "대표",
-      "count": 15
+      "count": 19
+    },
+    {
+      "keyword": "공동",
+      "count": 17
     },
     {
       "keyword": "체제",
-      "count": 13
+      "count": 15
     },
     {
       "keyword": "라인게임즈",
       "count": 13
     },
     {
-      "keyword": "합병",
+      "keyword": "김태환",
       "count": 12
     },
     {
-      "keyword": "김태환",
+      "keyword": "라인야후",
       "count": 11
     },
     {
       "keyword": "이시우",
-      "count": 10
+      "count": 11
+    },
+    {
+      "keyword": "합병",
+      "count": 11
     },
     {
       "keyword": "출범",
-      "count": 9
-    },
-    {
-      "keyword": "라인야후",
-      "count": 9
+      "count": 10
     },
     {
       "keyword": "글로벌",
       "count": 7
     },
     {
-      "keyword": "협력",
-      "count": 6
-    },
-    {
       "keyword": "경기도",
       "count": 6
     },
     {
-      "keyword": "점검",
+      "keyword": "라인",
       "count": 6
     },
     {
-      "keyword": "대기",
+      "keyword": "선임",
       "count": 6
     },
     {
-      "keyword": "하반기",
+      "keyword": "사업",
+      "count": 5
+    },
+    {
+      "keyword": "반도체",
       "count": 5
     },
     {
@@ -74,31 +74,35 @@
       "count": 5
     },
     {
-      "keyword": "선임",
+      "keyword": "협력",
       "count": 5
     },
     {
-      "keyword": "사업",
+      "keyword": "점검",
       "count": 5
     },
     {
-      "keyword": "교육",
+      "keyword": "대기",
       "count": 5
     },
     {
-      "keyword": "트리플",
-      "count": 5
+      "keyword": "위험",
+      "count": 4
     },
     {
-      "keyword": "예방",
-      "count": 5
+      "keyword": "도심",
+      "count": 4
     },
     {
-      "keyword": "학대",
-      "count": 5
+      "keyword": "선도",
+      "count": 4
     },
     {
-      "keyword": "라인",
+      "keyword": "현장",
+      "count": 4
+    },
+    {
+      "keyword": "인수",
       "count": 4
     },
     {
@@ -110,23 +114,55 @@
       "count": 4
     },
     {
-      "keyword": "결정",
+      "keyword": "예방",
       "count": 4
     },
     {
-      "keyword": "측정",
+      "keyword": "학대",
       "count": 4
     },
     {
-      "keyword": "기기",
-      "count": 4
+      "keyword": "일손",
+      "count": 3
     },
     {
-      "keyword": "아동",
-      "count": 4
+      "keyword": "수해",
+      "count": 3
     },
     {
-      "keyword": "인수",
+      "keyword": "대비",
+      "count": 3
+    },
+    {
+      "keyword": "재난",
+      "count": 3
+    },
+    {
+      "keyword": "옥외",
+      "count": 3
+    },
+    {
+      "keyword": "광고물",
+      "count": 3
+    },
+    {
+      "keyword": "물놀이",
+      "count": 3
+    },
+    {
+      "keyword": "청년",
+      "count": 3
+    },
+    {
+      "keyword": "연속",
+      "count": 3
+    },
+    {
+      "keyword": "주인",
+      "count": 3
+    },
+    {
+      "keyword": "출발",
       "count": 3
     },
     {
@@ -134,7 +170,15 @@
       "count": 3
     },
     {
+      "keyword": "하반기",
+      "count": 3
+    },
+    {
       "keyword": "신임",
+      "count": 3
+    },
+    {
+      "keyword": "결정",
       "count": 3
     },
     {
@@ -146,59 +190,15 @@
       "count": 3
     },
     {
-      "keyword": "도심",
-      "count": 3
-    },
-    {
       "keyword": "본격",
       "count": 3
     },
     {
-      "keyword": "선도",
+      "keyword": "교육",
       "count": 3
     },
     {
-      "keyword": "현장",
-      "count": 3
-    },
-    {
-      "keyword": "위험",
-      "count": 3
-    },
-    {
-      "keyword": "종합",
-      "count": 3
-    },
-    {
-      "keyword": "하이닉스",
-      "count": 3
-    },
-    {
-      "keyword": "이벤트",
-      "count": 3
-    },
-    {
-      "keyword": "풍성",
-      "count": 3
-    },
-    {
-      "keyword": "반도체",
-      "count": 3
-    },
-    {
-      "keyword": "장애인",
-      "count": 3
-    },
-    {
-      "keyword": "행복",
-      "count": 3
-    },
-    {
-      "keyword": "주간",
-      "count": 3
-    },
-    {
-      "keyword": "미정",
+      "keyword": "측정",
       "count": 3
     }
   ]
