@@ -3,22 +3,22 @@
   "keywords": [
     {
       "keyword": "카카오게임즈",
-      "count": 24
+      "count": 28
     },
     {
       "keyword": "라인게임즈",
-      "count": 14
+      "count": 16
     },
     {
       "keyword": "합병",
-      "count": 13
+      "count": 14
     },
     {
       "keyword": "점검",
       "count": 12
     },
     {
-      "keyword": "대표",
+      "keyword": "체제",
       "count": 10
     },
     {
@@ -27,26 +27,42 @@
     },
     {
       "keyword": "공동",
-      "count": 9
+      "count": 10
     },
     {
-      "keyword": "체제",
-      "count": 9
+      "keyword": "대표",
+      "count": 10
     },
     {
       "keyword": "대기",
-      "count": 8
+      "count": 9
     },
     {
       "keyword": "예방",
       "count": 8
     },
     {
-      "keyword": "사업",
+      "keyword": "협력",
       "count": 7
     },
     {
-      "keyword": "청년",
+      "keyword": "측정",
+      "count": 7
+    },
+    {
+      "keyword": "기기",
+      "count": 7
+    },
+    {
+      "keyword": "김태환",
+      "count": 7
+    },
+    {
+      "keyword": "이시우",
+      "count": 7
+    },
+    {
+      "keyword": "사업",
       "count": 7
     },
     {
@@ -58,19 +74,11 @@
       "count": 7
     },
     {
-      "keyword": "포토",
-      "count": 7
+      "keyword": "라인야후",
+      "count": 6
     },
     {
       "keyword": "트리플",
-      "count": 6
-    },
-    {
-      "keyword": "김태환",
-      "count": 6
-    },
-    {
-      "keyword": "이시우",
       "count": 6
     },
     {
@@ -78,19 +86,7 @@
       "count": 6
     },
     {
-      "keyword": "안전",
-      "count": 6
-    },
-    {
-      "keyword": "협력",
-      "count": 6
-    },
-    {
-      "keyword": "측정",
-      "count": 6
-    },
-    {
-      "keyword": "기기",
+      "keyword": "청년",
       "count": 6
     },
     {
@@ -102,19 +98,19 @@
       "count": 6
     },
     {
-      "keyword": "감독",
-      "count": 6
+      "keyword": "위험",
+      "count": 5
+    },
+    {
+      "keyword": "전수",
+      "count": 5
     },
     {
       "keyword": "하반기",
       "count": 5
     },
     {
-      "keyword": "대비",
-      "count": 5
-    },
-    {
-      "keyword": "광고물",
+      "keyword": "안전",
       "count": 5
     },
     {
@@ -126,19 +122,23 @@
       "count": 5
     },
     {
+      "keyword": "대비",
+      "count": 4
+    },
+    {
+      "keyword": "옥외",
+      "count": 4
+    },
+    {
+      "keyword": "광고물",
+      "count": 4
+    },
+    {
       "keyword": "글로벌",
       "count": 4
     },
     {
       "keyword": "이벤트",
-      "count": 4
-    },
-    {
-      "keyword": "위험",
-      "count": 4
-    },
-    {
-      "keyword": "옥외",
       "count": 4
     },
     {
@@ -166,11 +166,23 @@
       "count": 4
     },
     {
-      "keyword": "전수",
+      "keyword": "포토",
       "count": 4
     },
     {
-      "keyword": "라인",
+      "keyword": "감독",
+      "count": 4
+    },
+    {
+      "keyword": "재난",
+      "count": 3
+    },
+    {
+      "keyword": "본격",
+      "count": 3
+    },
+    {
+      "keyword": "도전",
       "count": 3
     },
     {
@@ -187,18 +199,6 @@
     },
     {
       "keyword": "강화",
-      "count": 3
-    },
-    {
-      "keyword": "라인야후",
-      "count": 3
-    },
-    {
-      "keyword": "단양군",
-      "count": 3
-    },
-    {
-      "keyword": "마늘",
       "count": 3
     }
   ]
