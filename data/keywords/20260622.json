@@ -3,7 +3,7 @@
   "keywords": [
     {
       "keyword": "카카오게임즈",
-      "count": 28
+      "count": 32
     },
     {
       "keyword": "라인게임즈",
@@ -14,51 +14,35 @@
       "count": 14
     },
     {
-      "keyword": "점검",
+      "keyword": "공동",
+      "count": 12
+    },
+    {
+      "keyword": "대표",
       "count": 12
     },
     {
       "keyword": "체제",
-      "count": 10
-    },
-    {
-      "keyword": "경기도",
-      "count": 10
-    },
-    {
-      "keyword": "공동",
-      "count": 10
-    },
-    {
-      "keyword": "대표",
-      "count": 10
-    },
-    {
-      "keyword": "대기",
-      "count": 9
-    },
-    {
-      "keyword": "예방",
-      "count": 8
-    },
-    {
-      "keyword": "협력",
-      "count": 7
-    },
-    {
-      "keyword": "측정",
-      "count": 7
-    },
-    {
-      "keyword": "기기",
-      "count": 7
+      "count": 11
     },
     {
       "keyword": "김태환",
-      "count": 7
+      "count": 10
+    },
+    {
+      "keyword": "점검",
+      "count": 10
     },
     {
       "keyword": "이시우",
+      "count": 9
+    },
+    {
+      "keyword": "경기도",
+      "count": 9
+    },
+    {
+      "keyword": "라인야후",
       "count": 7
     },
     {
@@ -66,15 +50,19 @@
       "count": 7
     },
     {
-      "keyword": "학대",
+      "keyword": "협력",
+      "count": 7
+    },
+    {
+      "keyword": "대기",
       "count": 7
     },
     {
       "keyword": "교육",
-      "count": 7
+      "count": 6
     },
     {
-      "keyword": "라인야후",
+      "keyword": "글로벌",
       "count": 6
     },
     {
@@ -86,23 +74,27 @@
       "count": 6
     },
     {
-      "keyword": "청년",
+      "keyword": "예방",
       "count": 6
     },
     {
-      "keyword": "아동",
+      "keyword": "학대",
       "count": 6
     },
     {
-      "keyword": "배출",
-      "count": 6
+      "keyword": "결정",
+      "count": 5
     },
     {
       "keyword": "위험",
       "count": 5
     },
     {
-      "keyword": "전수",
+      "keyword": "측정",
+      "count": 5
+    },
+    {
+      "keyword": "기기",
       "count": 5
     },
     {
@@ -110,16 +102,20 @@
       "count": 5
     },
     {
-      "keyword": "안전",
+      "keyword": "아동",
       "count": 5
     },
     {
-      "keyword": "결정",
-      "count": 5
+      "keyword": "선임",
+      "count": 4
     },
     {
-      "keyword": "지원",
-      "count": 5
+      "keyword": "본격",
+      "count": 4
+    },
+    {
+      "keyword": "선도",
+      "count": 4
     },
     {
       "keyword": "대비",
@@ -134,11 +130,11 @@
       "count": 4
     },
     {
-      "keyword": "글로벌",
+      "keyword": "이벤트",
       "count": 4
     },
     {
-      "keyword": "이벤트",
+      "keyword": "안전",
       "count": 4
     },
     {
@@ -146,43 +142,39 @@
       "count": 4
     },
     {
-      "keyword": "취업",
+      "keyword": "청년",
       "count": 4
     },
     {
-      "keyword": "모집",
+      "keyword": "배출",
       "count": 4
     },
     {
-      "keyword": "실태",
-      "count": 4
+      "keyword": "도심",
+      "count": 3
     },
     {
-      "keyword": "문화",
-      "count": 4
+      "keyword": "일손",
+      "count": 3
     },
     {
-      "keyword": "시범",
-      "count": 4
+      "keyword": "라인",
+      "count": 3
     },
     {
-      "keyword": "포토",
-      "count": 4
+      "keyword": "주주",
+      "count": 3
     },
     {
-      "keyword": "감독",
-      "count": 4
+      "keyword": "현장",
+      "count": 3
     },
     {
       "keyword": "재난",
       "count": 3
     },
     {
-      "keyword": "본격",
-      "count": 3
-    },
-    {
-      "keyword": "도전",
+      "keyword": "전수",
       "count": 3
     },
     {
@@ -198,7 +190,15 @@
       "count": 3
     },
     {
-      "keyword": "강화",
+      "keyword": "반도체",
+      "count": 3
+    },
+    {
+      "keyword": "연속",
+      "count": 3
+    },
+    {
+      "keyword": "장애인",
       "count": 3
     }
   ]
