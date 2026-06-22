@@ -6,19 +6,27 @@
       "count": 20
     },
     {
-      "keyword": "이상일",
-      "count": 16
-    },
-    {
       "keyword": "골프",
       "count": 13
+    },
+    {
+      "keyword": "카카오게임즈",
+      "count": 12
+    },
+    {
+      "keyword": "점검",
+      "count": 12
     },
     {
       "keyword": "감독",
       "count": 12
     },
     {
-      "keyword": "경기도",
+      "keyword": "예방",
+      "count": 11
+    },
+    {
+      "keyword": "라인게임즈",
       "count": 10
     },
     {
@@ -30,16 +38,36 @@
       "count": 10
     },
     {
-      "keyword": "시장",
-      "count": 10
-    },
-    {
-      "keyword": "지원",
+      "keyword": "합병",
       "count": 9
     },
     {
-      "keyword": "점검",
+      "keyword": "교육",
+      "count": 9
+    },
+    {
+      "keyword": "학대",
       "count": 8
+    },
+    {
+      "keyword": "경기도",
+      "count": 8
+    },
+    {
+      "keyword": "아동",
+      "count": 7
+    },
+    {
+      "keyword": "대기",
+      "count": 7
+    },
+    {
+      "keyword": "청년",
+      "count": 7
+    },
+    {
+      "keyword": "지원",
+      "count": 7
     },
     {
       "keyword": "이영",
@@ -54,23 +82,35 @@
       "count": 7
     },
     {
-      "keyword": "청년",
+      "keyword": "배출",
       "count": 6
     },
     {
-      "keyword": "광고물",
+      "keyword": "이상일",
+      "count": 6
+    },
+    {
+      "keyword": "문화",
       "count": 5
     },
     {
-      "keyword": "최대",
+      "keyword": "시범",
       "count": 5
     },
     {
-      "keyword": "예방",
+      "keyword": "측정",
       "count": 5
     },
     {
-      "keyword": "강화",
+      "keyword": "기기",
+      "count": 5
+    },
+    {
+      "keyword": "사업",
+      "count": 5
+    },
+    {
+      "keyword": "모집",
       "count": 5
     },
     {
@@ -78,19 +118,51 @@
       "count": 5
     },
     {
-      "keyword": "참전",
+      "keyword": "음악회",
       "count": 5
+    },
+    {
+      "keyword": "안전",
+      "count": 5
+    },
+    {
+      "keyword": "최대",
+      "count": 5
+    },
+    {
+      "keyword": "광고물",
+      "count": 5
+    },
+    {
+      "keyword": "협력",
+      "count": 4
+    },
+    {
+      "keyword": "하반기",
+      "count": 4
+    },
+    {
+      "keyword": "공원",
+      "count": 4
+    },
+    {
+      "keyword": "트리플",
+      "count": 4
+    },
+    {
+      "keyword": "전수",
+      "count": 4
+    },
+    {
+      "keyword": "참전",
+      "count": 4
     },
     {
       "keyword": "용사",
-      "count": 5
+      "count": 4
     },
     {
-      "keyword": "반도체",
-      "count": 5
-    },
-    {
-      "keyword": "일손",
+      "keyword": "결정",
       "count": 4
     },
     {
@@ -106,26 +178,6 @@
       "count": 4
     },
     {
-      "keyword": "카카오게임즈",
-      "count": 4
-    },
-    {
-      "keyword": "안전",
-      "count": 4
-    },
-    {
-      "keyword": "교육",
-      "count": 4
-    },
-    {
-      "keyword": "사업",
-      "count": 4
-    },
-    {
-      "keyword": "모집",
-      "count": 4
-    },
-    {
       "keyword": "취업",
       "count": 4
     },
@@ -138,67 +190,15 @@
       "count": 4
     },
     {
-      "keyword": "중앙시장",
-      "count": 4
-    },
-    {
-      "keyword": "시민",
-      "count": 4
-    },
-    {
-      "keyword": "연속",
-      "count": 4
-    },
-    {
-      "keyword": "위험",
+      "keyword": "장애인",
       "count": 3
     },
     {
-      "keyword": "문화",
+      "keyword": "행복",
       "count": 3
     },
     {
-      "keyword": "동탄",
-      "count": 3
-    },
-    {
-      "keyword": "공원",
-      "count": 3
-    },
-    {
-      "keyword": "축제",
-      "count": 3
-    },
-    {
-      "keyword": "용인시장",
-      "count": 3
-    },
-    {
-      "keyword": "음악회",
-      "count": 3
-    },
-    {
-      "keyword": "가치",
-      "count": 3
-    },
-    {
-      "keyword": "체험",
-      "count": 3
-    },
-    {
-      "keyword": "가족",
-      "count": 3
-    },
-    {
-      "keyword": "이영택",
-      "count": 3
-    },
-    {
-      "keyword": "장학",
-      "count": 3
-    },
-    {
-      "keyword": "별빛",
+      "keyword": "주간",
       "count": 3
     }
   ]
