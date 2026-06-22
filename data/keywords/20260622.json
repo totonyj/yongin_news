@@ -7,39 +7,51 @@
     },
     {
       "keyword": "대표",
-      "count": 20
+      "count": 22
     },
     {
       "keyword": "공동",
-      "count": 18
+      "count": 20
     },
     {
       "keyword": "체제",
-      "count": 16
-    },
-    {
-      "keyword": "라인게임즈",
-      "count": 13
+      "count": 17
     },
     {
       "keyword": "김태환",
-      "count": 12
-    },
-    {
-      "keyword": "합병",
-      "count": 11
-    },
-    {
-      "keyword": "라인야후",
-      "count": 11
+      "count": 15
     },
     {
       "keyword": "이시우",
+      "count": 14
+    },
+    {
+      "keyword": "라인야후",
+      "count": 12
+    },
+    {
+      "keyword": "라인게임즈",
       "count": 11
     },
     {
-      "keyword": "출범",
+      "keyword": "합병",
       "count": 10
+    },
+    {
+      "keyword": "출범",
+      "count": 9
+    },
+    {
+      "keyword": "점검",
+      "count": 8
+    },
+    {
+      "keyword": "선임",
+      "count": 7
+    },
+    {
+      "keyword": "경기도",
+      "count": 7
     },
     {
       "keyword": "글로벌",
@@ -50,16 +62,20 @@
       "count": 6
     },
     {
-      "keyword": "점검",
-      "count": 6
-    },
-    {
-      "keyword": "경기도",
-      "count": 6
-    },
-    {
       "keyword": "라인",
       "count": 6
+    },
+    {
+      "keyword": "전수",
+      "count": 5
+    },
+    {
+      "keyword": "측정",
+      "count": 5
+    },
+    {
+      "keyword": "기기",
+      "count": 5
     },
     {
       "keyword": "결정",
@@ -67,14 +83,6 @@
     },
     {
       "keyword": "사업",
-      "count": 5
-    },
-    {
-      "keyword": "반도체",
-      "count": 5
-    },
-    {
-      "keyword": "선임",
       "count": 5
     },
     {
@@ -86,15 +94,15 @@
       "count": 5
     },
     {
-      "keyword": "협력",
-      "count": 5
-    },
-    {
-      "keyword": "측정",
+      "keyword": "신임",
       "count": 4
     },
     {
-      "keyword": "기기",
+      "keyword": "배출",
+      "count": 4
+    },
+    {
+      "keyword": "본격",
       "count": 4
     },
     {
@@ -110,7 +118,7 @@
       "count": 4
     },
     {
-      "keyword": "현장",
+      "keyword": "반도체",
       "count": 4
     },
     {
@@ -126,15 +134,27 @@
       "count": 4
     },
     {
+      "keyword": "관리",
+      "count": 3
+    },
+    {
+      "keyword": "강화",
+      "count": 3
+    },
+    {
+      "keyword": "하이닉스",
+      "count": 3
+    },
+    {
+      "keyword": "클러스터",
+      "count": 3
+    },
+    {
+      "keyword": "안전",
+      "count": 3
+    },
+    {
       "keyword": "소식",
-      "count": 3
-    },
-    {
-      "keyword": "배출",
-      "count": 3
-    },
-    {
-      "keyword": "전수",
       "count": 3
     },
     {
@@ -174,31 +194,11 @@
       "count": 3
     },
     {
-      "keyword": "주인",
+      "keyword": "현장",
       "count": 3
     },
     {
       "keyword": "출발",
-      "count": 3
-    },
-    {
-      "keyword": "박신자컵",
-      "count": 3
-    },
-    {
-      "keyword": "하반기",
-      "count": 3
-    },
-    {
-      "keyword": "확장",
-      "count": 3
-    },
-    {
-      "keyword": "주주",
-      "count": 3
-    },
-    {
-      "keyword": "본격",
       "count": 3
     }
   ]
