@@ -2,68 +2,76 @@
   "date": "2026-06-22",
   "keywords": [
     {
-      "keyword": "이상일",
-      "count": 18
-    },
-    {
       "keyword": "포토",
-      "count": 14
+      "count": 20
     },
     {
-      "keyword": "시장",
-      "count": 12
+      "keyword": "이상일",
+      "count": 16
     },
     {
       "keyword": "골프",
-      "count": 11
+      "count": 13
+    },
+    {
+      "keyword": "감독",
+      "count": 12
+    },
+    {
+      "keyword": "경기도",
+      "count": 10
+    },
+    {
+      "keyword": "김세진",
+      "count": 10
+    },
+    {
+      "keyword": "강성형",
+      "count": 10
+    },
+    {
+      "keyword": "시장",
+      "count": 10
     },
     {
       "keyword": "지원",
       "count": 9
     },
     {
-      "keyword": "연속",
-      "count": 9
-    },
-    {
-      "keyword": "김세진",
+      "keyword": "점검",
       "count": 8
     },
     {
-      "keyword": "강성형",
-      "count": 8
-    },
-    {
-      "keyword": "사업",
-      "count": 8
-    },
-    {
-      "keyword": "경기도",
-      "count": 7
-    },
-    {
-      "keyword": "선도",
+      "keyword": "이영",
       "count": 7
     },
     {
       "keyword": "자선",
-      "count": 6
+      "count": 7
     },
     {
       "keyword": "대회",
+      "count": 7
+    },
+    {
+      "keyword": "청년",
       "count": 6
     },
     {
-      "keyword": "감독",
-      "count": 6
+      "keyword": "광고물",
+      "count": 5
     },
     {
-      "keyword": "중앙시장",
-      "count": 6
+      "keyword": "최대",
+      "count": 5
     },
     {
-      "keyword": "시민",
-      "count": 6
+      "keyword": "예방",
+      "count": 5
+    },
+    {
+      "keyword": "강화",
+      "count": 5
     },
     {
       "keyword": "보훈",
@@ -78,27 +86,47 @@
       "count": 5
     },
     {
-      "keyword": "이영",
-      "count": 5
-    },
-    {
-      "keyword": "장학",
-      "count": 5
-    },
-    {
       "keyword": "반도체",
       "count": 5
     },
     {
-      "keyword": "점검",
+      "keyword": "일손",
       "count": 4
     },
     {
-      "keyword": "용인시장",
+      "keyword": "집중",
       "count": 4
     },
     {
-      "keyword": "최대",
+      "keyword": "대비",
+      "count": 4
+    },
+    {
+      "keyword": "옥외",
+      "count": 4
+    },
+    {
+      "keyword": "카카오게임즈",
+      "count": 4
+    },
+    {
+      "keyword": "안전",
+      "count": 4
+    },
+    {
+      "keyword": "교육",
+      "count": 4
+    },
+    {
+      "keyword": "사업",
+      "count": 4
+    },
+    {
+      "keyword": "모집",
+      "count": 4
+    },
+    {
+      "keyword": "취업",
       "count": 4
     },
     {
@@ -106,87 +134,27 @@
       "count": 4
     },
     {
-      "keyword": "가족",
-      "count": 4
-    },
-    {
       "keyword": "신영철",
       "count": 4
     },
     {
-      "keyword": "강화",
+      "keyword": "중앙시장",
       "count": 4
     },
     {
-      "keyword": "별빛",
+      "keyword": "시민",
       "count": 4
     },
     {
-      "keyword": "마당",
+      "keyword": "연속",
       "count": 4
     },
     {
-      "keyword": "야시장",
-      "count": 4
-    },
-    {
-      "keyword": "태양광",
-      "count": 4
-    },
-    {
-      "keyword": "종합",
-      "count": 4
-    },
-    {
-      "keyword": "평가",
-      "count": 4
-    },
-    {
-      "keyword": "우수",
-      "count": 4
-    },
-    {
-      "keyword": "광고물",
+      "keyword": "위험",
       "count": 3
     },
     {
-      "keyword": "청년",
-      "count": 3
-    },
-    {
-      "keyword": "일손",
-      "count": 3
-    },
-    {
-      "keyword": "음악회",
-      "count": 3
-    },
-    {
-      "keyword": "축제",
-      "count": 3
-    },
-    {
-      "keyword": "예방",
-      "count": 3
-    },
-    {
-      "keyword": "체험",
-      "count": 3
-    },
-    {
-      "keyword": "가치",
-      "count": 3
-    },
-    {
-      "keyword": "이영택",
-      "count": 3
-    },
-    {
-      "keyword": "재단",
-      "count": 3
-    },
-    {
-      "keyword": "공원",
+      "keyword": "문화",
       "count": 3
     },
     {
@@ -194,11 +162,43 @@
       "count": 3
     },
     {
-      "keyword": "화재",
+      "keyword": "공원",
       "count": 3
     },
     {
-      "keyword": "부상",
+      "keyword": "축제",
+      "count": 3
+    },
+    {
+      "keyword": "용인시장",
+      "count": 3
+    },
+    {
+      "keyword": "음악회",
+      "count": 3
+    },
+    {
+      "keyword": "가치",
+      "count": 3
+    },
+    {
+      "keyword": "체험",
+      "count": 3
+    },
+    {
+      "keyword": "가족",
+      "count": 3
+    },
+    {
+      "keyword": "이영택",
+      "count": 3
+    },
+    {
+      "keyword": "장학",
+      "count": 3
+    },
+    {
+      "keyword": "별빛",
       "count": 3
     }
   ]
