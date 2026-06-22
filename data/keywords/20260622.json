@@ -2,63 +2,47 @@
   "date": "2026-06-22",
   "keywords": [
     {
-      "keyword": "포토",
-      "count": 20
-    },
-    {
-      "keyword": "골프",
-      "count": 13
-    },
-    {
       "keyword": "카카오게임즈",
-      "count": 12
+      "count": 24
+    },
+    {
+      "keyword": "라인게임즈",
+      "count": 14
+    },
+    {
+      "keyword": "합병",
+      "count": 13
     },
     {
       "keyword": "점검",
       "count": 12
     },
     {
-      "keyword": "감독",
-      "count": 12
-    },
-    {
-      "keyword": "예방",
-      "count": 11
-    },
-    {
-      "keyword": "라인게임즈",
+      "keyword": "대표",
       "count": 10
-    },
-    {
-      "keyword": "김세진",
-      "count": 10
-    },
-    {
-      "keyword": "강성형",
-      "count": 10
-    },
-    {
-      "keyword": "합병",
-      "count": 9
-    },
-    {
-      "keyword": "교육",
-      "count": 9
-    },
-    {
-      "keyword": "학대",
-      "count": 8
     },
     {
       "keyword": "경기도",
-      "count": 8
+      "count": 10
     },
     {
-      "keyword": "아동",
-      "count": 7
+      "keyword": "공동",
+      "count": 9
+    },
+    {
+      "keyword": "체제",
+      "count": 9
     },
     {
       "keyword": "대기",
+      "count": 8
+    },
+    {
+      "keyword": "예방",
+      "count": 8
+    },
+    {
+      "keyword": "사업",
       "count": 7
     },
     {
@@ -66,67 +50,67 @@
       "count": 7
     },
     {
-      "keyword": "지원",
+      "keyword": "학대",
       "count": 7
     },
     {
-      "keyword": "이영",
+      "keyword": "교육",
       "count": 7
     },
     {
-      "keyword": "자선",
+      "keyword": "포토",
       "count": 7
     },
     {
-      "keyword": "대회",
-      "count": 7
+      "keyword": "트리플",
+      "count": 6
+    },
+    {
+      "keyword": "김태환",
+      "count": 6
+    },
+    {
+      "keyword": "이시우",
+      "count": 6
+    },
+    {
+      "keyword": "출범",
+      "count": 6
+    },
+    {
+      "keyword": "안전",
+      "count": 6
+    },
+    {
+      "keyword": "협력",
+      "count": 6
+    },
+    {
+      "keyword": "측정",
+      "count": 6
+    },
+    {
+      "keyword": "기기",
+      "count": 6
+    },
+    {
+      "keyword": "아동",
+      "count": 6
     },
     {
       "keyword": "배출",
       "count": 6
     },
     {
-      "keyword": "이상일",
+      "keyword": "감독",
       "count": 6
     },
     {
-      "keyword": "문화",
+      "keyword": "하반기",
       "count": 5
     },
     {
-      "keyword": "시범",
-      "count": 5
-    },
-    {
-      "keyword": "측정",
-      "count": 5
-    },
-    {
-      "keyword": "기기",
-      "count": 5
-    },
-    {
-      "keyword": "사업",
-      "count": 5
-    },
-    {
-      "keyword": "모집",
-      "count": 5
-    },
-    {
-      "keyword": "보훈",
-      "count": 5
-    },
-    {
-      "keyword": "음악회",
-      "count": 5
-    },
-    {
-      "keyword": "안전",
-      "count": 5
-    },
-    {
-      "keyword": "최대",
+      "keyword": "대비",
       "count": 5
     },
     {
@@ -134,43 +118,23 @@
       "count": 5
     },
     {
-      "keyword": "협력",
-      "count": 4
-    },
-    {
-      "keyword": "하반기",
-      "count": 4
-    },
-    {
-      "keyword": "공원",
-      "count": 4
-    },
-    {
-      "keyword": "트리플",
-      "count": 4
-    },
-    {
-      "keyword": "전수",
-      "count": 4
-    },
-    {
-      "keyword": "참전",
-      "count": 4
-    },
-    {
-      "keyword": "용사",
-      "count": 4
-    },
-    {
       "keyword": "결정",
+      "count": 5
+    },
+    {
+      "keyword": "지원",
+      "count": 5
+    },
+    {
+      "keyword": "글로벌",
       "count": 4
     },
     {
-      "keyword": "집중",
+      "keyword": "이벤트",
       "count": 4
     },
     {
-      "keyword": "대비",
+      "keyword": "위험",
       "count": 4
     },
     {
@@ -178,27 +142,63 @@
       "count": 4
     },
     {
+      "keyword": "미정",
+      "count": 4
+    },
+    {
       "keyword": "취업",
       "count": 4
     },
     {
-      "keyword": "배구",
+      "keyword": "모집",
       "count": 4
     },
     {
-      "keyword": "신영철",
+      "keyword": "실태",
       "count": 4
     },
     {
-      "keyword": "장애인",
+      "keyword": "문화",
+      "count": 4
+    },
+    {
+      "keyword": "시범",
+      "count": 4
+    },
+    {
+      "keyword": "전수",
+      "count": 4
+    },
+    {
+      "keyword": "라인",
       "count": 3
     },
     {
-      "keyword": "행복",
+      "keyword": "종합",
       "count": 3
     },
     {
-      "keyword": "주간",
+      "keyword": "하이닉스",
+      "count": 3
+    },
+    {
+      "keyword": "풍성",
+      "count": 3
+    },
+    {
+      "keyword": "강화",
+      "count": 3
+    },
+    {
+      "keyword": "라인야후",
+      "count": 3
+    },
+    {
+      "keyword": "단양군",
+      "count": 3
+    },
+    {
+      "keyword": "마늘",
       "count": 3
     }
   ]
