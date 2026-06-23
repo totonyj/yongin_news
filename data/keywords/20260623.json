@@ -2,59 +2,67 @@
   "date": "2026-06-23",
   "keywords": [
     {
-      "keyword": "카카오게임즈",
-      "count": 25
+      "keyword": "압수",
+      "count": 22
     },
     {
-      "keyword": "대표",
+      "keyword": "아워홈",
+      "count": 21
+    },
+    {
+      "keyword": "수색",
+      "count": 21
+    },
+    {
+      "keyword": "공장",
+      "count": 20
+    },
+    {
+      "keyword": "사고",
+      "count": 18
+    },
+    {
+      "keyword": "경찰",
       "count": 14
     },
     {
-      "keyword": "공동",
-      "count": 12
+      "keyword": "노동부",
+      "count": 11
     },
     {
-      "keyword": "체제",
+      "keyword": "말레이시아",
       "count": 10
     },
     {
-      "keyword": "라인야후",
+      "keyword": "수출",
       "count": 9
     },
     {
-      "keyword": "점검",
+      "keyword": "카카오게임즈",
       "count": 9
     },
     {
-      "keyword": "김태환",
-      "count": 9
-    },
-    {
-      "keyword": "라인게임즈",
+      "keyword": "박람회",
       "count": 8
     },
     {
-      "keyword": "이시우",
+      "keyword": "상담",
       "count": 8
     },
     {
-      "keyword": "합병",
+      "keyword": "근로자",
       "count": 7
     },
     {
+      "keyword": "점검",
+      "count": 7
+    },
+    {
+      "keyword": "성과",
+      "count": 6
+    },
+    {
       "keyword": "대기",
-      "count": 6
-    },
-    {
-      "keyword": "전수",
-      "count": 6
-    },
-    {
-      "keyword": "글로벌",
-      "count": 5
-    },
-    {
-      "keyword": "경기도",
       "count": 5
     },
     {
@@ -62,35 +70,31 @@
       "count": 5
     },
     {
-      "keyword": "측정",
+      "keyword": "전수",
       "count": 5
     },
     {
-      "keyword": "기기",
+      "keyword": "대표",
       "count": 5
     },
     {
-      "keyword": "선임",
-      "count": 5
-    },
-    {
-      "keyword": "라인",
-      "count": 5
-    },
-    {
-      "keyword": "포토",
-      "count": 5
-    },
-    {
-      "keyword": "대회",
-      "count": 5
-    },
-    {
-      "keyword": "말레이시아",
+      "keyword": "반복",
       "count": 4
     },
     {
-      "keyword": "현장",
+      "keyword": "보름",
+      "count": 4
+    },
+    {
+      "keyword": "체제",
+      "count": 4
+    },
+    {
+      "keyword": "안전",
+      "count": 4
+    },
+    {
+      "keyword": "예방",
       "count": 4
     },
     {
@@ -98,40 +102,48 @@
       "count": 4
     },
     {
-      "keyword": "시장",
+      "keyword": "라인게임즈",
       "count": 4
     },
     {
-      "keyword": "반도체",
+      "keyword": "합병",
       "count": 4
     },
     {
-      "keyword": "신임",
+      "keyword": "측정",
       "count": 4
     },
     {
-      "keyword": "결정",
+      "keyword": "기기",
       "count": 4
     },
     {
-      "keyword": "도심",
+      "keyword": "공동",
       "count": 4
     },
     {
-      "keyword": "출범",
-      "count": 4
+      "keyword": "연속",
+      "count": 3
     },
     {
-      "keyword": "인수",
-      "count": 4
+      "keyword": "강제",
+      "count": 3
     },
     {
-      "keyword": "배구",
-      "count": 4
+      "keyword": "수사",
+      "count": 3
     },
     {
-      "keyword": "골프",
-      "count": 4
+      "keyword": "끼임사고",
+      "count": 3
+    },
+    {
+      "keyword": "여름철",
+      "count": 3
+    },
+    {
+      "keyword": "사업",
+      "count": 3
     },
     {
       "keyword": "집중",
@@ -142,27 +154,11 @@
       "count": 3
     },
     {
-      "keyword": "대비",
+      "keyword": "시장",
       "count": 3
     },
     {
-      "keyword": "박람회",
-      "count": 3
-    },
-    {
-      "keyword": "수출",
-      "count": 3
-    },
-    {
-      "keyword": "상담",
-      "count": 3
-    },
-    {
-      "keyword": "성과",
-      "count": 3
-    },
-    {
-      "keyword": "집값",
+      "keyword": "반도체",
       "count": 3
     },
     {
@@ -170,36 +166,40 @@
       "count": 3
     },
     {
-      "keyword": "농협",
+      "keyword": "라인야후",
       "count": 3
     },
     {
-      "keyword": "농촌",
+      "keyword": "경기도",
       "count": 3
     },
     {
-      "keyword": "일손",
+      "keyword": "김태환",
       "count": 3
     },
     {
-      "keyword": "간판",
+      "keyword": "이시우",
       "count": 3
     },
     {
-      "keyword": "안전",
-      "count": 3
+      "keyword": "마케팅",
+      "count": 2
     },
     {
-      "keyword": "클러스터",
-      "count": 3
+      "keyword": "노동당",
+      "count": 2
     },
     {
-      "keyword": "본격",
-      "count": 3
+      "keyword": "착수",
+      "count": 2
     },
     {
-      "keyword": "소식",
-      "count": 3
+      "keyword": "문해",
+      "count": 2
+    },
+    {
+      "keyword": "관람",
+      "count": 2
     }
   ]
 }
